@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.0
+matplotlib==3.9.2
+seaborn==0.13.2
+statsmodels==0.14.5
+openpyxl==3.1.2
+Pillow==10.4.0
+scikit-posthocs==0.17.0
+
+requests==2.34.2
+scikit-learn==1.9.1
+python-picard==0.8.2
+squarify==0.4.4

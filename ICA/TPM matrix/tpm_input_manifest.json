@@ -1,0 +1,14 @@
+[
+  {
+    "file": "discovery_tpm.tsv.gz",
+    "sha256": "35917d646f785dcfeabe5cb52cfbb4e2fd7da9714d5ded994209f7682dabde09",
+    "uncompressed_sha256": "825d717cecba4ef116555077cf76cbf9067da3f6726ae84854fe674cd12e6c40",
+    "samples": 778
+  },
+  {
+    "file": "expanded_tpm.tsv.gz",
+    "sha256": "48edcc22e4d325171ba42e982da37d23afcd1a4cace2aabfe2ee88dbd1535622",
+    "uncompressed_sha256": "3542aa4a7559ee042c5902d5ec720a1abba03aee6b3c2b74ae245c60d870bfde",
+    "samples": 1030
+  }
+]

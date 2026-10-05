@@ -1,0 +1,1044 @@
+{
+  "archive": "expanded_motif_inputs.tar.gz",
+  "sha256": "64731f342fc8ffbec5182297465aaa159cfdbc70514a0c334c0ced5d07b5e8d4",
+  "modules": [
+    {
+      "iModulon": 0,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 1,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 2,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 3,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 4,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 5,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 6,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 7,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 8,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 9,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 10,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 11,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 12,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 13,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 14,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 15,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 16,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 17,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 18,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 19,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 20,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 21,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 22,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 23,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 24,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 25,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 26,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 27,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 28,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 29,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 30,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 31,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 32,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 33,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 34,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 35,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 36,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 37,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 38,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 39,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 40,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 41,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 42,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 43,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 44,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 45,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 46,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 47,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 48,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 49,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 50,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 51,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 52,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 53,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 54,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 55,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 56,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 57,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 58,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 59,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 60,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 61,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 62,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 63,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 64,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 65,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 66,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 67,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 68,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 69,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 70,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 71,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 72,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 73,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 74,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 75,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 76,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 77,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 78,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 79,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 80,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 81,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 82,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 83,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 84,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 85,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 86,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 87,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 88,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 89,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 90,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 91,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 92,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 93,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 94,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 95,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 96,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 97,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 98,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 99,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 100,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 101,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 102,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 103,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 104,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 105,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 106,
+      "meme_xml": false,
+      "tomtom_vertebrates": false,
+      "tomtom_mouse": false,
+      "ame": false,
+      "analysis_exclusion": "Single-gene iModulon; excluded from motif analysis."
+    },
+    {
+      "iModulon": 107,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 108,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 109,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 110,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 111,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 112,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 113,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 114,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 115,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 116,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 117,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 118,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 119,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 120,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 121,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 122,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 123,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 124,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 125,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 126,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 127,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 128,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 129,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 130,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 131,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 132,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 133,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 134,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 135,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 136,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 137,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 138,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 139,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 140,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 141,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 142,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 143,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 144,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 145,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 146,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    },
+    {
+      "iModulon": 147,
+      "meme_xml": true,
+      "tomtom_vertebrates": true,
+      "tomtom_mouse": true,
+      "ame": true
+    }
+  ],
+  "site_count_definition": "Unique FIMO sequence IDs with q-value < 0.01, using the original summary rule."
+}

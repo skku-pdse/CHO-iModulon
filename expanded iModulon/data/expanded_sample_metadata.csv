@@ -1,0 +1,1031 @@
+Project,SampleID,Dataset,Instrument,Layout,Cell line,Time point,Time point (day),Producer,Product,Engineered,Culture,Productivity,Stability,Temperature shift,Phase,Media,Library,Condition ,Permutation_order
+2014_11_CHOS_baseline,P1796_101,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 72h,0
+2014_11_CHOS_baseline,P1796_102,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 72h,1
+2014_11_CHOS_baseline,P1796_103,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 72h,2
+2014_11_CHOS_baseline,P1796_104,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 72h,3
+2014_11_CHOS_baseline,P1796_105,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 84h,4
+2014_11_CHOS_baseline,P1796_106,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 84h,5
+2014_11_CHOS_baseline,P1796_107,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 84h,6
+2014_11_CHOS_baseline,P1796_108,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 84h,7
+2014_11_CHOS_baseline,P1796_109,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 96h,8
+2014_11_CHOS_baseline,P1796_110,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 96h,9
+2014_11_CHOS_baseline,P1796_111,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 96h,10
+2014_11_CHOS_baseline,P1796_112,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 96h,11
+2014_11_CHOS_baseline,P1796_113,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 108h,12
+2014_11_CHOS_baseline,P1796_114,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 108h,13
+2014_11_CHOS_baseline,P1796_115,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 108h,14
+2014_11_CHOS_baseline,P1796_116,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 108h,15
+2014_11_CHOS_baseline,P1796_117,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 120h,16
+2014_11_CHOS_baseline,P1796_118,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 120h,17
+2014_11_CHOS_baseline,P1796_119,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 120h,18
+2014_11_CHOS_baseline,P1796_120,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),polyA,Control - 120h,19
+2014_11_CHOS_baseline,P1796_121,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 132h,20
+2014_11_CHOS_baseline,P1796_122,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 132h,21
+2014_11_CHOS_baseline,P1796_323,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 132h,105
+2014_11_CHOS_baseline,P1796_124,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 132h,22
+2014_11_CHOS_baseline,P1796_125,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 144h,23
+2014_11_CHOS_baseline,P1796_126,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 144h,24
+2014_11_CHOS_baseline,P1796_127,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 144h,25
+2014_11_CHOS_baseline,P1796_128,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 144h,26
+2014_11_CHOS_baseline,P1796_129,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 156h,27
+2014_11_CHOS_baseline,P1796_130,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 156h,28
+2014_11_CHOS_baseline,P1796_131,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 156h,29
+2014_11_CHOS_baseline,P1796_132,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 156h,30
+2014_11_CHOS_baseline,P1796_133,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 168h,31
+2014_11_CHOS_baseline,P1796_134,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 168h,32
+2014_11_CHOS_baseline,P1796_135,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 168h,33
+2014_11_CHOS_baseline,P1796_136,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),polyA,Control - 168h,34
+2014_11_CHOS_baseline,P1796_137,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 180h,35
+2014_11_CHOS_baseline,P1796_138,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 180h,36
+2014_11_CHOS_baseline,P1796_139,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 180h,37
+2014_11_CHOS_baseline,P1796_140,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 180h,38
+2014_11_CHOS_baseline,P1796_141,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,192h,8,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 192h,39
+2014_11_CHOS_baseline,P1796_142,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,192h,8,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 192h,40
+2014_11_CHOS_baseline,P1796_143,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,192h,8,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 192h,41
+2014_11_CHOS_baseline,P1796_144,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,192h,8,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 192h,42
+2014_11_CHOS_baseline,P1796_145,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,204h,8.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 204h,43
+2014_11_CHOS_baseline,P1796_146,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,204h,8.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 204h,44
+2014_11_CHOS_baseline,P1796_147,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,204h,8.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 204h,45
+2014_11_CHOS_baseline,P1796_148,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,204h,8.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 204h,46
+2014_11_CHOS_baseline,P1796_149,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,216h,9,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 216h,47
+2014_11_CHOS_baseline,P1796_150,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,216h,9,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 216h,48
+2014_11_CHOS_baseline,P1796_151,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,216h,9,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 216h,49
+2014_11_CHOS_baseline,P1796_152,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,216h,9,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 216h,50
+2014_11_CHOS_baseline,P1796_153,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,228h,9.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 228h,51
+2014_11_CHOS_baseline,P1796_154,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,228h,9.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 228h,52
+2014_11_CHOS_baseline,P1796_155,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,228h,9.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 228h,53
+2014_11_CHOS_baseline,P1796_156,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,228h,9.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 228h,54
+2014_11_CHOS_baseline,P1796_157,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,240h,10,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 240h,55
+2014_11_CHOS_baseline,P1796_158,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,240h,10,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 240h,56
+2014_11_CHOS_baseline,P1796_159,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,240h,10,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 240h,57
+2014_11_CHOS_baseline,P1796_160,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,240h,10,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 240h,58
+2014_11_CHOS_baseline,P1796_161,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,248h,10.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 248h,59
+2014_11_CHOS_baseline,P1796_162,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,248h,10.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 248h,60
+2014_11_CHOS_baseline,P1796_163,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,248h,10.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 248h,61
+2014_11_CHOS_baseline,P1796_164,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,248h,10.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 248h,62
+2014_11_CHOS_baseline,P1796_165,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,264h,11,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 264h,63
+2014_11_CHOS_baseline,P1796_166,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,264h,11,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 264h,64
+2014_11_CHOS_baseline,P1796_167,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,264h,11,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 264h,65
+2014_11_CHOS_baseline,P1796_168,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,264h,11,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 264h,66
+2014_11_CHOS_baseline,P1796_169,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,272h,11.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 272h,67
+2014_11_CHOS_baseline,P1796_170,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,272h,11.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 272h,68
+2014_11_CHOS_baseline,P1796_171,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,272h,11.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 272h,69
+2014_11_CHOS_baseline,P1796_172,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,272h,11.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 272h,70
+2014_11_CHOS_baseline,P1796_173,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,288h,12,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 288h,71
+2014_11_CHOS_baseline,P1796_174,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,288h,12,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 288h,72
+2014_11_CHOS_baseline,P1796_175,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,288h,12,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 288h,73
+2014_11_CHOS_baseline,P1796_176,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,288h,12,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 288h,74
+2014_11_CHOS_baseline,P1796_177,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,296h,12.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 296h,75
+2014_11_CHOS_baseline,P1796_178,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,296h,12.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 296h,76
+2014_11_CHOS_baseline,P1796_179,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,296h,12.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 296h,77
+2014_11_CHOS_baseline,P1796_180,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,296h,12.33333333,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 296h,78
+2014_11_CHOS_baseline,P1796_181,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,312h,13,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 312h,79
+2014_11_CHOS_baseline,P1796_182,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,312h,13,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 312h,80
+2014_11_CHOS_baseline,P1796_183,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,312h,13,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 312h,81
+2014_11_CHOS_baseline,P1796_184,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,312h,13,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),polyA,Control - 312h,82
+2014_11_CHOS_baseline,P1796_185,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,NO,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,WT,83
+2014_11_CHOS_baseline,P1796_186,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT2-1A2,84
+2014_11_CHOS_baseline,P1796_187,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT2-3B3,85
+2014_11_CHOS_baseline,P1796_188,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT2-3C7,86
+2014_11_CHOS_baseline,P1796_189,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT2-4H5,87
+2014_11_CHOS_baseline,P1796_190,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT7-1D4,88
+2014_11_CHOS_baseline,P1796_191,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT7-1E4,89
+2014_11_CHOS_baseline,P1796_192,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT7-1H7,90
+2014_11_CHOS_baseline,P1796_193,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT10-1E8,91
+2014_11_CHOS_baseline,P1796_194,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT10-1F2,92
+2014_11_CHOS_baseline,P1796_195,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT10-1F11,93
+2014_11_CHOS_baseline,P1796_196,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT11-1C8,94
+2014_11_CHOS_baseline,P1796_201,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT11-2H5,95
+2014_11_CHOS_baseline,P1796_202,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT11-2H7,96
+2014_11_CHOS_baseline,P1796_203,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT7/10DKO-1B1,97
+2014_11_CHOS_baseline,P1796_204,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT7/10DKO-1H6,98
+2014_11_CHOS_baseline,P1796_205,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT7/10DKO-1E1,99
+2014_11_CHOS_baseline,P1796_206,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-GALNT7/10DKO-1H10,100
+2014_11_CHOS_baseline,P1796_207,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,+GALNT3-1H5,101
+2014_11_CHOS_baseline,P1796_208,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,+GALNT3-1H8,102
+2014_11_CHOS_baseline,P1796_209,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,+GALNT3-2B3,103
+2014_11_CHOS_baseline,P1796_210,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,-Cosmc-4B7,104
+2015_12_FDA_virus,EMCV1Vifn_S10,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV1Vifn,106
+2015_12_FDA_virus,EMCV1Vm_S8,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV1Vm,107
+2015_12_FDA_virus,EMCV1Vpoly_S9,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV1Vpoly,108
+2015_12_FDA_virus,EMCV1ifn_S7,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV1ifn,109
+2015_12_FDA_virus,EMCV1m_S5,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV1m,110
+2015_12_FDA_virus,EMCV1poly_S6,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV1poly,111
+2015_12_FDA_virus,EMCV2Vifn_S17,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV2Vifn,112
+2015_12_FDA_virus,EMCV2Vm_S15,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV2Vm,113
+2015_12_FDA_virus,EMCV2Vpoly_S16,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV2Vpoly,114
+2015_12_FDA_virus,EMCV2ifn_S14,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV2ifn,115
+2015_12_FDA_virus,EMCV2m_S11,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV2m,116
+2015_12_FDA_virus,EMCV2poly_S13,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,EMCV2poly,117
+2015_12_FDA_virus,MVM1IFN_S33,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM1IFN,118
+2015_12_FDA_virus,MVM1VIFN_S37,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM1VIFN,119
+2015_12_FDA_virus,MVM1Vmedia_S35,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM1Vmedia,120
+2015_12_FDA_virus,MVM1VpolyIC_S36,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM1VpolyIC,121
+2015_12_FDA_virus,MVM1media_S31,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM1media,122
+2015_12_FDA_virus,MVM1polyIC_S32,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM1polyIC,123
+2015_12_FDA_virus,MVM2IFN_S40,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM2IFN,124
+2015_12_FDA_virus,MVM2VIFN_S43,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM2VIFN,125
+2015_12_FDA_virus,MVM2Vmedia_S41,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM2Vmedia,126
+2015_12_FDA_virus,MVM2VpolyIC_S42,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM2VpolyIC,127
+2015_12_FDA_virus,MVM2media_S38,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM2media,128
+2015_12_FDA_virus,MVM2polyIC_S39,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,MVM2polyIC,129
+2015_12_FDA_virus,Reo1Vifn_S24,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo1Vifn,130
+2015_12_FDA_virus,Reo1Vpoly_S22,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo1Vpoly,131
+2015_12_FDA_virus,Reo1ifn_S20,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo1ifn,132
+2015_12_FDA_virus,Reo1m_S18,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo1m,133
+2015_12_FDA_virus,Reo1poly_S19,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo1poly,134
+2015_12_FDA_virus,Reo3Vifn_S30,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo3Vifn,135
+2015_12_FDA_virus,Reo3Vpoly_S29,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo3Vpoly,136
+2015_12_FDA_virus,Reo3ifn_S27,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo3ifn,137
+2015_12_FDA_virus,Reo3m_S25,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo3m,138
+2015_12_FDA_virus,Reo3poly_S26,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,Reo3poly,139
+2015_12_FDA_virus,VSV1Vifn_S45,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV1Vifn,140
+2015_12_FDA_virus,VSV1Vm_S34,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV1Vm,141
+2015_12_FDA_virus,VSV1Vpoly_S44,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV1Vpoly,142
+2015_12_FDA_virus,VSV1ifn_S23,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV1ifn,143
+2015_12_FDA_virus,VSV1m_S1,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV1m,144
+2015_12_FDA_virus,VSV1poly_S12,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV1poly,145
+2015_12_FDA_virus,VSV2Vifn_S4,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV2Vifn,146
+2015_12_FDA_virus,VSV2Vm_S2,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV2Vm,147
+2015_12_FDA_virus,VSV2Vpoly_S3,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV2Vpoly,148
+2015_12_FDA_virus,VSV2ifn_S48,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV2ifn,149
+2015_12_FDA_virus,VSV2m_S46,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV2m,150
+2015_12_FDA_virus,VSV2poly_S47,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,VSV2poly,151
+2015_12_FDA_virus,reo1Vm_S21,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,reo1Vm,152
+2015_12_FDA_virus,reo3Vm_S28,Discovery,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4,NP,NA,NO,Plate,NA,NA,NO,E,Commercial (RPMI-1040),polyA,reo3Vm,153
+2016_03_CHOS_bioreactor,Bio101-P2_S1,Discovery,,PAIRED,CHO-S,Day2,2,NP,NA,NO,,NA,NA,NO,E,,rRNA,,154
+2016_03_CHOS_bioreactor,Bio101-P4_S5,Discovery,,PAIRED,CHO-S,Day4,4,NP,NA,NO,,NA,NA,NO,E,,rRNA,,155
+2016_03_CHOS_bioreactor,Bio101-P5_S9,Discovery,,PAIRED,CHO-S,Day5,5,NP,NA,NO,,NA,NA,NO,S,,rRNA,,156
+2016_03_CHOS_bioreactor,Bio101-P7_S13,Discovery,,PAIRED,CHO-S,Day7,7,NP,NA,NO,,NA,NA,NO,S,,rRNA,,157
+2016_03_CHOS_bioreactor,Bio101-P10_S17,Discovery,,PAIRED,CHO-S,Day10,10,NP,NA,NO,,NA,NA,NO,S,,rRNA,,158
+2016_03_CHOS_bioreactor,Bio102-P2_S21,Discovery,,PAIRED,CHO-S,Day2,2,NP,NA,NO,,NA,NA,NO,E,,rRNA,,159
+2016_03_CHOS_bioreactor,Bio102-P5_S24,Discovery,,PAIRED,CHO-S,Day5,5,NP,NA,NO,,NA,NA,NO,E,,rRNA,,160
+2016_03_CHOS_bioreactor,Bio102-P7_S27,Discovery,,PAIRED,CHO-S,Day7,7,NP,NA,NO,,NA,NA,NO,S,,rRNA,,161
+2016_03_CHOS_bioreactor,Bio102-P10_S2,Discovery,,PAIRED,CHO-S,Day10,10,NP,NA,NO,,NA,NA,NO,S,,rRNA,,162
+2016_03_CHOS_bioreactor,Bio109-P2_S6,Discovery,,PAIRED,CHO-S,Day2,2,NP,NA,NO,,NA,NA,NO,E,,rRNA,,163
+2016_03_CHOS_bioreactor,Bio109-P4_S10,Discovery,,PAIRED,CHO-S,Day4,4,NP,NA,NO,,NA,NA,NO,E,,rRNA,,164
+2016_03_CHOS_bioreactor,Bio109-P6_S14,Discovery,,PAIRED,CHO-S,Day6,6,NP,NA,NO,,NA,NA,NO,S,,rRNA,,165
+2016_03_CHOS_bioreactor,Bio109-P8_S18,Discovery,,PAIRED,CHO-S,Day8,8,NP,NA,NO,,NA,NA,NO,S,,rRNA,,166
+2016_03_CHOS_bioreactor,Bio109-P12_S22,Discovery,,PAIRED,CHO-S,Day12,12,NP,NA,NO,,NA,NA,NO,D,,rRNA,,167
+2016_03_CHOS_bioreactor,Bio110-P2_S25,Discovery,,PAIRED,CHO-S,Day2,2,NP,NA,NO,,NA,NA,NO,E,,rRNA,,168
+2016_03_CHOS_bioreactor,Bio110-P4_S28,Discovery,,PAIRED,CHO-S,Day4,4,NP,NA,NO,,NA,NA,NO,E,,rRNA,,169
+2016_03_CHOS_bioreactor,Bio110-P6_S3,Discovery,,PAIRED,CHO-S,Day6,6,NP,NA,NO,,NA,NA,NO,S,,rRNA,,170
+2016_03_CHOS_bioreactor,Bio110-P8_S7,Discovery,,PAIRED,CHO-S,Day8,8,NP,NA,NO,,NA,NA,NO,S,,rRNA,,171
+2016_03_CHOS_bioreactor,Bio110-P12_S11,Discovery,,PAIRED,CHO-S,Day12,12,NP,NA,NO,,NA,NA,NO,D,,rRNA,,172
+2016_03_CHOS_bioreactor,Bio117-P2_S15,Discovery,,PAIRED,CHO-S,Day2,2,NP,NA,NO,,NA,NA,NO,E,,rRNA,,173
+2016_03_CHOS_bioreactor,Bio117-P4_S19,Discovery,,PAIRED,CHO-S,Day4,4,NP,NA,NO,,NA,NA,NO,E,,rRNA,,174
+2016_03_CHOS_bioreactor,Bio117-P6_S23,Discovery,,PAIRED,CHO-S,Day6,6,NP,NA,NO,,NA,NA,NO,S,,rRNA,,175
+2016_03_CHOS_bioreactor,Bio117-P8_S26,Discovery,,PAIRED,CHO-S,Day8,8,NP,NA,NO,,NA,NA,NO,S,,rRNA,,176
+2016_03_CHOS_bioreactor,Bio117-P12_S29,Discovery,,PAIRED,CHO-S,Day12,12,NP,NA,NO,,NA,NA,NO,D,,rRNA,,177
+2016_03_CHOS_bioreactor,Bio118-P2_S4,Discovery,,PAIRED,CHO-S,Day2,2,NP,NA,NO,,NA,NA,NO,E,,rRNA,,178
+2016_03_CHOS_bioreactor,Bio118-P4_S8,Discovery,,PAIRED,CHO-S,Day4,4,NP,NA,NO,,NA,NA,NO,E,,rRNA,,179
+2016_03_CHOS_bioreactor,Bio118-P6_S12,Discovery,,PAIRED,CHO-S,Day6,6,NP,NA,NO,,NA,NA,NO,S,,rRNA,,180
+2016_03_CHOS_bioreactor,Bio118-P8_S16,Discovery,,PAIRED,CHO-S,Day8,8,NP,NA,NO,,NA,NA,NO,S,,rRNA,,181
+2016_03_CHOS_bioreactor,Bio118-P12_S20,Discovery,,PAIRED,CHO-S,Day12,12,NP,NA,NO,,NA,NA,NO,D,,rRNA,,182
+2016_05_HH_L,Bio141P2_S1,Discovery,,PAIRED,CHO-S,Day2,2,NP,NA,NO,,,,NO,E,CD-CHO (Gibco),,,183
+2016_05_HH_L,Bio141P4_S2,Discovery,,PAIRED,CHO-S,Day4,4,NP,NA,NO,,,,NO,E,CD-CHO (Gibco),,,184
+2016_05_HH_L,Bio141P6_S3,Discovery,,PAIRED,CHO-S,Day6,6,NP,NA,NO,,,,NO,S,CD-CHO (Gibco),,,185
+2016_05_HH_L,Bio141P8_S4,Discovery,,PAIRED,CHO-S,Day8,8,NP,NA,NO,,,,NO,S,CD-CHO (Gibco),,,186
+2016_05_HH_L,Bio141P12_S5,Discovery,,PAIRED,CHO-S,Day12,12,NP,NA,NO,,,,NO,D,CD-CHO (Gibco),,,187
+2016_05_HH_L,Bio141P14_S6,Discovery,,PAIRED,CHO-S,Day14,14,NP,NA,NO,,,,NO,D,CD-CHO (Gibco),,,188
+2016_05_HH_L,Bio142P2_S7,Discovery,,PAIRED,CHO-S,Day2,2,NP,NA,NO,,,,NO,E,CD-CHO (Gibco),,,189
+2016_05_HH_L,Bio142P4_S8,Discovery,,PAIRED,CHO-S,Day4,4,NP,NA,NO,,,,NO,E,CD-CHO (Gibco),,,190
+2016_05_HH_L,Bio142P6_S9,Discovery,,PAIRED,CHO-S,Day6,6,NP,NA,NO,,,,NO,S,CD-CHO (Gibco),,,191
+2016_05_HH_L,Bio142P8_S10,Discovery,,PAIRED,CHO-S,Day8,8,NP,NA,NO,,,,NO,S,CD-CHO (Gibco),,,192
+2016_05_HH_L,Bio142P12_S11,Discovery,,PAIRED,CHO-S,Day12,12,NP,NA,NO,,,,NO,D,CD-CHO (Gibco),,,193
+2016_05_HH_L,Bio142P14_S12,Discovery,,PAIRED,CHO-S,Day14,14,NP,NA,NO,,,,NO,D,CD-CHO (Gibco),,,194
+2016_05_HH_L,Bio143P2_S13,Discovery,,PAIRED,CHO-S,Day2,2,NP,NA,NO,,,,NO,E,CD-CHO (Gibco),,,195
+2016_05_HH_L,Bio143P4_S14,Discovery,,PAIRED,CHO-S,Day4,4,NP,NA,NO,,,,NO,E,CD-CHO (Gibco),,,196
+2016_05_HH_L,Bio143P6_S15,Discovery,,PAIRED,CHO-S,Day6,6,NP,NA,NO,,,,NO,S,CD-CHO (Gibco),,,197
+2016_05_HH_L,Bio143P8_S16,Discovery,,PAIRED,CHO-S,Day8,8,NP,NA,NO,,,,NO,S,CD-CHO (Gibco),,,198
+2016_05_HH_L,Bio143P14_S17,Discovery,,PAIRED,CHO-S,Day14,14,NP,NA,NO,,,,NO,D,CD-CHO (Gibco),,,199
+2016_05_HH_L,Bio144P4_S18,Discovery,,PAIRED,CHO-ZeLa,Day4,4,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,200
+2016_05_HH_L,Bio144P6_S19,Discovery,,PAIRED,CHO-ZeLa,Day6,6,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,201
+2016_05_HH_L,Bio144P8_S20,Discovery,,PAIRED,CHO-ZeLa,Day8,8,NP,NA,YES,,,,NO,S,CD-CHO (Gibco),,,202
+2016_05_HH_L,Bio144P14_S21,Discovery,,PAIRED,CHO-ZeLa,Day14,14,NP,NA,YES,,,,NO,D,CD-CHO (Gibco),,,203
+2016_05_HH_L,Bio145P2_S22,Discovery,,PAIRED,CHO-ZeLa,Day2,2,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,204
+2016_05_HH_L,Bio145P4_S23,Discovery,,PAIRED,CHO-ZeLa,Day4,4,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,205
+2016_05_HH_L,Bio145P8_S24,Discovery,,PAIRED,CHO-ZeLa,Day8,8,NP,NA,YES,,,,NO,S,CD-CHO (Gibco),,,206
+2016_05_HH_L,Bio145P12_S25,Discovery,,PAIRED,CHO-ZeLa,Day12,12,NP,NA,YES,,,,NO,D,CD-CHO (Gibco),,,207
+2016_05_HH_L,Bio145P14_S26,Discovery,,PAIRED,CHO-ZeLa,Day14,14,NP,NA,YES,,,,NO,D,CD-CHO (Gibco),,,208
+2016_05_HH_L,Bio146P2_S27,Discovery,,PAIRED,CHO-ZeLa,Day2,2,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,209
+2016_05_HH_L,Bio146P4_S28,Discovery,,PAIRED,CHO-ZeLa,Day4,4,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,210
+2016_05_HH_L,Bio146P6_S29,Discovery,,PAIRED,CHO-ZeLa,Day6,6,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,211
+2016_05_HH_L,Bio146P8_S30,Discovery,,PAIRED,CHO-ZeLa,Day8,8,NP,NA,YES,,,,NO,S,CD-CHO (Gibco),,,212
+2016_05_HH_L,Bio146P12_S31,Discovery,,PAIRED,CHO-ZeLa,Day12,12,NP,NA,YES,,,,NO,D,CD-CHO (Gibco),,,213
+2016_05_HH_L,Bio146P14_S32,Discovery,,PAIRED,CHO-ZeLa,Day14,14,NP,NA,YES,,,,NO,D,CD-CHO (Gibco),,,214
+2016_05_HH_L,Bio147P2_S33,Discovery,,PAIRED,CHO-ZeLa,Day2,2,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,215
+2016_05_HH_L,Bio147P4_S34,Discovery,,PAIRED,CHO-ZeLa,Day4,4,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,216
+2016_05_HH_L,Bio147P6_S35,Discovery,,PAIRED,CHO-ZeLa,Day6,6,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,217
+2016_05_HH_L,Bio147P8_S36,Discovery,,PAIRED,CHO-ZeLa,Day8,8,NP,NA,YES,,,,NO,S,CD-CHO (Gibco),,,218
+2016_05_HH_L,Bio147P14_S37,Discovery,,PAIRED,CHO-ZeLa,Day14,14,NP,NA,YES,,,,NO,D,CD-CHO (Gibco),,,219
+2016_05_HH_L,Bio148P2_S38,Discovery,,PAIRED,CHO-ZeLa,Day2,2,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,220
+2016_05_HH_L,Bio148P4_S39,Discovery,,PAIRED,CHO-ZeLa,Day4,4,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,221
+2016_05_HH_L,Bio148P6_S40,Discovery,,PAIRED,CHO-ZeLa,Day6,6,NP,NA,YES,,,,NO,E,CD-CHO (Gibco),,,222
+2016_05_HH_L,Bio148P8_S41,Discovery,,PAIRED,CHO-ZeLa,Day8,8,NP,NA,YES,,,,NO,S,CD-CHO (Gibco),,,223
+2016_05_HH_L,Bio148P12_S42,Discovery,,PAIRED,CHO-ZeLa,Day12,12,NP,NA,YES,,,,NO,D,CD-CHO (Gibco),,,224
+2016_05_HH_L,Bio148P14_S43,Discovery,,PAIRED,CHO-ZeLa,Day14,14,NP,NA,YES,,,,NO,D,CD-CHO (Gibco),,,225
+2017_04_09_4X_Lact_mutants,1-C5_S8,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,226
+2017_04_09_4X_Lact_mutants,1-D6_S7,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,227
+2017_04_09_4X_Lact_mutants,2-D5_S6,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,228
+2017_04_09_4X_Lact_mutants,2-G1_S5,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,229
+2017_04_09_4X_Lact_mutants,3-C4_S4,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,230
+2017_04_09_4X_Lact_mutants,3-D8_S3,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,231
+2017_04_09_4X_Lact_mutants,3-G12_S2,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,232
+2017_04_09_4X_Lact_mutants,3-H9_S1,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,233
+2017_04_09_4X_Lact_mutants,4-B6_S13,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,234
+2017_04_09_4X_Lact_mutants,4-B7_S12,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,235
+2017_04_09_4X_Lact_mutants,4-C12_S10,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,236
+2017_04_09_4X_Lact_mutants,4-C9_S11,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,237
+2017_04_09_4X_Lact_mutants,4-H9_S9,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,238
+2017_04_09_4X_Lact_mutants,WT_S14,Discovery,,PAIRED,,,,NP,NA,,,,,NO,,,,,239
+2017_08_09_Lact_prod,Bio229P5_S1,Discovery,,PAIRED,,Day5,5,NP,NA,,,,,NO,,,polyA,,240
+2017_08_09_Lact_prod,Bio229P7_S9,Discovery,,PAIRED,,Day7,7,NP,NA,,,,,NO,,,polyA,,241
+2017_08_09_Lact_prod,Bio229P8_S17,Discovery,,PAIRED,,Day8,8,NP,NA,,,,,NO,,,polyA,,242
+2017_08_09_Lact_prod,Bio229P12_S23,Discovery,,PAIRED,,Day12,12,NP,NA,,,,,NO,,,polyA,,243
+2017_08_09_Lact_prod,Bio229P14_S30,Discovery,,PAIRED,,Day14,14,NP,NA,,,,,NO,,,polyA,,244
+2017_08_09_Lact_prod,Bio230P5_S2,Discovery,,PAIRED,,Day5,5,NP,NA,,,,,NO,,,polyA,,245
+2017_08_09_Lact_prod,Bio230P7_S10,Discovery,,PAIRED,,Day7,7,NP,NA,,,,,NO,,,polyA,,246
+2017_08_09_Lact_prod,Bio231P5_S3,Discovery,,PAIRED,,Day5,5,NP,NA,,,,,NO,,,polyA,,247
+2017_08_09_Lact_prod,Bio231P7_S11,Discovery,,PAIRED,,Day7,7,NP,NA,,,,,NO,,,polyA,,248
+2017_08_09_Lact_prod,Bio231P8_S19,Discovery,,PAIRED,,Day8,8,NP,NA,,,,,NO,,,polyA,,249
+2017_08_09_Lact_prod,Bio231P12_S25,Discovery,,PAIRED,,Day12,12,NP,NA,,,,,NO,,,polyA,,250
+2017_08_09_Lact_prod,Bio231P14_S32,Discovery,,PAIRED,,Day14,14,NP,NA,,,,,NO,,,polyA,,251
+2017_08_09_Lact_prod,Bio232P5_S4,Discovery,,PAIRED,,Day5,5,NP,NA,,,,,NO,,,polyA,,252
+2017_08_09_Lact_prod,Bio232P7_S12,Discovery,,PAIRED,,Day7,7,NP,NA,,,,,NO,,,polyA,,253
+2017_08_09_Lact_prod,Bio232P8_S20,Discovery,,PAIRED,,Day8,8,NP,NA,,,,,NO,,,polyA,,254
+2017_08_09_Lact_prod,Bio232P12_S26,Discovery,,PAIRED,,Day12,12,NP,NA,,,,,NO,,,polyA,,255
+2017_08_09_Lact_prod,Bio232P14_S33,Discovery,,PAIRED,,Day14,14,NP,NA,,,,,NO,,,polyA,,256
+2017_08_09_Lact_prod,Bio233P5_S5,Discovery,,PAIRED,,Day5,5,NP,NA,,,,,NO,,,polyA,,257
+2017_08_09_Lact_prod,Bio233P7_S13,Discovery,,PAIRED,,Day7,7,NP,NA,,,,,NO,,,polyA,,258
+2017_08_09_Lact_prod,Bio233P8_S21,Discovery,,PAIRED,,Day8,8,NP,NA,,,,,NO,,,polyA,,259
+2017_08_09_Lact_prod,Bio233P12_S27,Discovery,,PAIRED,,Day12,12,NP,NA,,,,,NO,,,polyA,,260
+2017_08_09_Lact_prod,Bio233P14_S34,Discovery,,PAIRED,,Day14,14,NP,NA,,,,,NO,,,polyA,,261
+2017_08_09_Lact_prod,Bio234P5_S6,Discovery,,PAIRED,,Day5,5,NP,NA,,,,,NO,,,polyA,,262
+2017_08_09_Lact_prod,Bio234P7_S14,Discovery,,PAIRED,,Day7,7,NP,NA,,,,,NO,,,polyA,,263
+2017_08_09_Lact_prod,Bio234P12_S28,Discovery,,PAIRED,,Day12,12,NP,NA,,,,,NO,,,polyA,,264
+2017_08_09_Lact_prod,Bio234P14_S35,Discovery,,PAIRED,,Day14,14,NP,NA,,,,,NO,,,polyA,,265
+2017_08_09_Lact_prod,Bio235P5_S7,Discovery,,PAIRED,,Day5,5,NP,NA,,,,,NO,,,polyA,,266
+2017_08_09_Lact_prod,Bio235P7_S15,Discovery,,PAIRED,,Day7,7,NP,NA,,,,,NO,,,polyA,,267
+2017_08_09_Lact_prod,Bio236P5_S8,Discovery,,PAIRED,,Day5,5,NP,NA,,,,,NO,,,polyA,,268
+2017_08_09_Lact_prod,Bio236P7_S16,Discovery,,PAIRED,,Day7,7,NP,NA,,,,,NO,,,polyA,,269
+2017_08_09_Lact_prod,Bio236P12_S29,Discovery,,PAIRED,,Day12,12,NP,NA,,,,,NO,,,polyA,,270
+2017_08_09_Lact_prod,Bio236P14_S36,Discovery,,PAIRED,,Day14,14,NP,NA,,,,,NO,,,polyA,,271
+2017_08_09_Lact_prod,Bio238P8_S18,Discovery,,PAIRED,,Day8,8,NP,NA,,,,,NO,,,polyA,,272
+2017_10_ZeLa_C13,CHOS68-1_S5,Discovery,,PAIRED,CHO-S,Day3,3,NP,NA,,,,,NO,,,,,273
+2017_10_ZeLa_C13,CHOS68-2_S6,Discovery,,PAIRED,CHO-S,Day3,3,NP,NA,,,,,NO,,,,,274
+2017_10_ZeLa_C13,CHOS68-3_S7,Discovery,,PAIRED,CHO-S,Day3,3,NP,NA,,,,,NO,,,,,275
+2017_10_ZeLa_C13,CHOS71-1_S2,Discovery,,PAIRED,CHO-S,Day3,3,NP,NA,,,,,NO,,,,,276
+2017_10_ZeLa_C13,CHOS71-2_S3,Discovery,,PAIRED,CHO-S,Day3,3,NP,NA,,,,,NO,,,,,277
+2017_10_ZeLa_C13,CHOS71-3_S4,Discovery,,PAIRED,CHO-S,Day3,3,NP,NA,,,,,NO,,,,,278
+2017_10_ZeLa_C13,CHOZL71-1_S8,Discovery,,PAIRED,CHO-ZeLa,Day3,3,NP,NA,,,,,NO,,,,,279
+2017_10_ZeLa_C13,CHOZL71-2_S9,Discovery,,PAIRED,CHO-ZeLa,Day3,3,NP,NA,,,,,NO,,,,,280
+2017_10_ZeLa_C13,CHOZL71-3_S10,Discovery,,PAIRED,CHO-ZeLa,Day3,3,NP,NA,,,,,NO,,,,,281
+2019_02_GFI1_TRIM24_noVirus,1-1_S1,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,NO,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,WT,282
+2019_02_GFI1_TRIM24_noVirus,1-2_S2,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,NO,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,WT,283
+2019_02_GFI1_TRIM24_noVirus,1-3_S3,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,NO,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,WT,284
+2019_02_GFI1_TRIM24_noVirus,2-1_S4,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Ext2,285
+2019_02_GFI1_TRIM24_noVirus,2-2_S5,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Ext2,286
+2019_02_GFI1_TRIM24_noVirus,2-3_S8,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Ext2,287
+2019_02_GFI1_TRIM24_noVirus,3-1_S9,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Xylt1 + Xylt2,288
+2019_02_GFI1_TRIM24_noVirus,3-2_S10,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Xylt1 + Xylt2,289
+2019_02_GFI1_TRIM24_noVirus,3-3_S11,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Xylt1 + Xylt2,290
+2019_02_GFI1_TRIM24_noVirus,4-1_S6,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1 Trim24,291
+2019_02_GFI1_TRIM24_noVirus,4-2_S12,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1 Trim24,292
+2019_02_GFI1_TRIM24_noVirus,4-3_S7,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1 Trim24,293
+2019_02_GFI1_TRIM24_noVirus,5-1_S13,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Trim24,294
+2019_02_GFI1_TRIM24_noVirus,5-2_S14,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Trim24,295
+2019_02_GFI1_TRIM24_noVirus,5-3_S15,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Trim24,296
+2019_02_GFI1_TRIM24_noVirus,6-1_S16,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1 Trim24,297
+2019_02_GFI1_TRIM24_noVirus,6-2_S17,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1 Trim24,298
+2019_02_GFI1_TRIM24_noVirus,6-3_S18,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1 Trim24,299
+2019_02_GFI1_TRIM24_noVirus,7-1_S19,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1 Trim24 ,300
+2019_02_GFI1_TRIM24_noVirus,7-2_S20,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1 Trim24 ,301
+2019_02_GFI1_TRIM24_noVirus,7-3_S21,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1 Trim24 ,302
+2019_02_GFI1_TRIM24_noVirus,8-1_S22,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1,303
+2019_02_GFI1_TRIM24_noVirus,8-2_S23,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1,304
+2019_02_GFI1_TRIM24_noVirus,8-3_S24,Discovery,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,NA,NO,,CD-CHO (Gibco),polyA,Gfi1,305
+2019_12_BD_pilot_A1AT,1-48hrs_S2,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,306
+2019_12_BD_pilot_A1AT,1-72hrs_S11,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,307
+2019_12_BD_pilot_A1AT,1-96hrs_S20,Discovery,,PAIRED,CHO-S,96h,4,NP,NA,,,,,NO,E,,,,308
+2019_12_BD_pilot_A1AT,2-48hrs_S3,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,309
+2019_12_BD_pilot_A1AT,2-72hrs_S12,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,310
+2019_12_BD_pilot_A1AT,2-96hrs_S21,Discovery,,PAIRED,CHO-S,96h,4,NP,NA,,,,,NO,E,,,,311
+2019_12_BD_pilot_A1AT,3-48hrs_S4,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,312
+2019_12_BD_pilot_A1AT,3-72hrs_S13,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,313
+2019_12_BD_pilot_A1AT,3-96hrs_S22,Discovery,,PAIRED,CHO-S,96h,4,NP,NA,,,,,NO,E,,,,314
+2019_12_BD_pilot_A1AT,4-48hrs_S5,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,315
+2019_12_BD_pilot_A1AT,4-72hrs_S14,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,316
+2019_12_BD_pilot_A1AT,4-96hrs_S23,Discovery,,PAIRED,CHO-S,96h,4,NP,NA,,,,,NO,E,,,,317
+2019_12_BD_pilot_A1AT,5-48hrs_S6,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,318
+2019_12_BD_pilot_A1AT,5-72hrs_S15,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,319
+2019_12_BD_pilot_A1AT,6-48hrs_S7,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,320
+2019_12_BD_pilot_A1AT,6-72hrs_S16,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,321
+2019_12_BD_pilot_A1AT,6-96hrs_S24,Discovery,,PAIRED,CHO-S,96h,4,NP,NA,,,,,NO,E,,,,322
+2019_12_BD_pilot_A1AT,7-48hrs_S8,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,323
+2019_12_BD_pilot_A1AT,7-72hrs_S17,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,324
+2019_12_BD_pilot_A1AT,7-96hrs_S25,Discovery,,PAIRED,CHO-S,96h,4,NP,NA,,,,,NO,E,,,,325
+2019_12_BD_pilot_A1AT,8-48hrs_S9,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,326
+2019_12_BD_pilot_A1AT,8-72hrs_S18,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,327
+2019_12_BD_pilot_A1AT,8-96hrs_S26,Discovery,,PAIRED,CHO-S,96h,4,NP,NA,,,,,NO,E,,,,328
+2019_12_BD_pilot_A1AT,9-48hrs_S10,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,329
+2019_12_BD_pilot_A1AT,9-72hrs_S19,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,330
+2019_12_BD_pilot_A1AT,9-96hrs_S27,Discovery,,PAIRED,CHO-S,96h,4,NP,NA,,,,,NO,E,,,,331
+2019_12_BD_pilot_A1AT,CHO-Swt_S1,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,332
+2019_BD_Pilot_Set2_48h_72h,R-48-1-C9-1_S7,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,333
+2019_BD_Pilot_Set2_48h_72h,R-48-1-C9-2_S8,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,334
+2019_BD_Pilot_Set2_48h_72h,R-48-1-C9-3_S9,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,335
+2019_BD_Pilot_Set2_48h_72h,R-72-1-C9-1_S25,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,336
+2019_BD_Pilot_Set2_48h_72h,R-72-1-C9-2_S26,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,337
+2019_BD_Pilot_Set2_48h_72h,R-72-1-C9-3_S27,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,338
+2019_BD_Pilot_Set2_48h_72h,R-48-2-B3-1_S10,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,339
+2019_BD_Pilot_Set2_48h_72h,R-48-2-B3-2_S11,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,340
+2019_BD_Pilot_Set2_48h_72h,R-48-2-B3-3_S12,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,341
+2019_BD_Pilot_Set2_48h_72h,R-72-2-B3-1_S28,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,342
+2019_BD_Pilot_Set2_48h_72h,R-72-2-B3-2_S29,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,343
+2019_BD_Pilot_Set2_48h_72h,R-72-2-B3-3_S30,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,344
+2019_BD_Pilot_Set2_48h_72h,R-48-2-C4-1_S13,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,345
+2019_BD_Pilot_Set2_48h_72h,R-48-2-C4-2_S14,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,346
+2019_BD_Pilot_Set2_48h_72h,R-48-2-C4-3_S15,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,347
+2019_BD_Pilot_Set2_48h_72h,R-72-2-C4-2_S32,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,348
+2019_BD_Pilot_Set2_48h_72h,R-72-2-C4-3_S33,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,349
+2019_BD_Pilot_Set2_48h_72h,R-48-2-H9-1_S16,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,350
+2019_BD_Pilot_Set2_48h_72h,R-48-2-H9-2_S17,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,351
+2019_BD_Pilot_Set2_48h_72h,R-48-2-H9-3_S18,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,352
+2019_BD_Pilot_Set2_48h_72h,R-72-2-H9-1_S34,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,353
+2019_BD_Pilot_Set2_48h_72h,R-72-2-H9-2_S35,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,354
+2019_BD_Pilot_Set2_48h_72h,R-72-2-H9-3_S36,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,355
+2019_BD_Pilot_Set2_48h_72h,R-48-Pool-B-1_S4,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,356
+2019_BD_Pilot_Set2_48h_72h,R-48-Pool-B-2_S5,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,357
+2019_BD_Pilot_Set2_48h_72h,R-48-Pool-B-3_S6,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,358
+2019_BD_Pilot_Set2_48h_72h,R-72-Pool-B-1_S22,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,359
+2019_BD_Pilot_Set2_48h_72h,R-72-Pool-B-2_S23,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,360
+2019_BD_Pilot_Set2_48h_72h,R-72-Pool-B-3_S24,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,361
+2019_BD_Pilot_Set2_48h_72h,R-48-WT-B-1_S1,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,362
+2019_BD_Pilot_Set2_48h_72h,R-48-WT-B-2_S2,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,363
+2019_BD_Pilot_Set2_48h_72h,R-48-WT-B-3_S3,Discovery,,PAIRED,CHO-S,48h,2,NP,NA,,,,,NO,E,,,,364
+2019_BD_Pilot_Set2_48h_72h,R-72-WT-B-1_S19,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,365
+2019_BD_Pilot_Set2_48h_72h,R-72-WT-B-2_S20,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,366
+2019_BD_Pilot_Set2_48h_72h,R-72-WT-B-3_S21,Discovery,,PAIRED,CHO-S,72h,3,NP,NA,,,,,NO,E,,,,367
+2020_02_12_ZeN,2Aplus_S7,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,368
+2020_02_12_ZeN,2Bplus_S8,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,369
+2020_02_12_ZeN,2Cplus_S9,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,370
+2020_02_12_ZeN,6Aplus_S10,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,371
+2020_02_12_ZeN,6Bplus_S11,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,372
+2020_02_12_ZeN,6Cplus_S12,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,373
+2020_02_12_ZeN,D2-Z-1_S1,Discovery,,PAIRED,CHO-K1,,,NP,NA,NO,,,,NO,,,,,374
+2020_02_12_ZeN,D2-Z-2_S2,Discovery,,PAIRED,CHO-K1,,,NP,NA,NO,,,,NO,,,,,375
+2020_02_12_ZeN,D2-Z-3_S3,Discovery,,PAIRED,CHO-K1,,,NP,NA,NO,,,,NO,,,,,376
+2020_02_12_ZeN,D2-Z-ZeLa-1_S4,Discovery,,PAIRED,CHO-K1,,,NP,NA,YES,,,,NO,,,,,377
+2020_02_12_ZeN,D2-Z-ZeLa-2_S5,Discovery,,PAIRED,CHO-K1,,,NP,NA,YES,,,,NO,,,,,379
+2020_02_12_ZeN,D2-Z-ZeLa-3_S6,Discovery,,PAIRED,CHO-K1,,,NP,NA,YES,,,,NO,,,,,380
+2020_02_12_ZeN,D3-Z-1_S13,Discovery,,PAIRED,CHO-K1,,,NP,NA,NO,,,,NO,,,,,381
+2020_02_12_ZeN,D3-Z-2_S14,Discovery,,PAIRED,CHO-K1,,,NP,NA,NO,,,,NO,,,,,382
+2020_02_12_ZeN,D3-Z-3_S15,Discovery,,PAIRED,CHO-K1,,,NP,NA,NO,,,,NO,,,,,383
+2020_02_12_ZeN,D3-Z-ZeLa-1_S16,Discovery,,PAIRED,CHO-K1,,,NP,NA,YES,,,,NO,,,,,384
+2020_02_12_ZeN,D3-Z-ZeLa-2_S17,Discovery,,PAIRED,CHO-K1,,,NP,NA,YES,,,,NO,,,,,378
+2020_03_18_CBD3_CBD6,CC005_S13,Discovery,,PAIRED,CHO-S,,,P,SerpinA,,,,,NO,,CD-CHO (Gibco),,,385
+2020_03_18_CBD3_CBD6,CC006_S25,Discovery,,PAIRED,CHO-S,,,P,BCHE,,,,,NO,,CD-CHO (Gibco),,,386
+2020_03_18_CBD3_CBD6,CC007_S37,Discovery,,PAIRED,CHO-S,,,P,pZ,,,,,NO,,CD-CHO (Gibco),,,387
+2020_03_18_CBD3_CBD6,CC011_S2,Discovery,,PAIRED,CHO-S,,,P,EPO,,,,,NO,,CD-CHO (Gibco),,,388
+2020_03_18_CBD3_CBD6,CC012_S14,Discovery,,PAIRED,CHO-S,,,P,Herceptin,,,,,NO,,CD-CHO (Gibco),,,389
+2020_03_18_CBD3_CBD6,CC013_S26,Discovery,,PAIRED,CHO-S,,,P,Enbrel,,,,,NO,,CD-CHO (Gibco),,,390
+2020_03_18_CBD3_CBD6,CC014_S38,Discovery,,PAIRED,CHO-S,,,P,Rituximab,,,,,NO,,CD-CHO (Gibco),,,391
+2020_03_18_CBD3_CBD6,CC017_S74,Discovery,,PAIRED,CHO-S,,,P,BCHE,,,,,NO,,CD-CHO (Gibco),,,392
+2020_03_18_CBD3_CBD6,CC018_S86,Discovery,,PAIRED,CHO-S,,,P,pZ,,,,,NO,,CD-CHO (Gibco),,,393
+2020_03_18_CBD3_CBD6,CC019_S3,Discovery,,PAIRED,CHO-S,,,P,SerpinA5,,,,,NO,,CD-CHO (Gibco),,,394
+2020_03_18_CBD3_CBD6,CC020_S15,Discovery,,PAIRED,CHO-S,,,P,SerpinA10,,,,,NO,,CD-CHO (Gibco),,,395
+2020_03_18_CBD3_CBD6,CC021_S39,Discovery,,PAIRED,CHO-S,,,P,SerpinC1,,,,,NO,,CD-CHO (Gibco),,,396
+2020_03_18_CBD3_CBD6,CC022_S51,Discovery,,PAIRED,CHO-S,,,P,EPO,,,,,NO,,CD-CHO (Gibco),,,397
+2020_03_18_CBD3_CBD6,CC023_S63,Discovery,,PAIRED,CHO-S,,,P,Herceptin,,,,,NO,,CD-CHO (Gibco),,,398
+2020_03_18_CBD3_CBD6,CC024_S75,Discovery,,PAIRED,CHO-S,,,P,Enbrel,,,,,NO,,CD-CHO (Gibco),,,399
+2020_03_18_CBD3_CBD6,CC025_S87,Discovery,,PAIRED,CHO-S,,,P,Rituximab,,,,,NO,,CD-CHO (Gibco),,,400
+2020_03_18_CBD3_CBD6,CC026_S27,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD-CHO (Gibco),,,401
+2020_03_18_CBD3_CBD6,CC033_S76,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",402
+2020_03_18_CBD3_CBD6,CC034_S4,Discovery,,PAIRED,CHO-S,,,P,SerpinA,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",403
+2020_03_18_CBD3_CBD6,CC035_S16,Discovery,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",404
+2020_03_18_CBD3_CBD6,CC036_S40,Discovery,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",405
+2020_03_18_CBD3_CBD6,CC037_S52,Discovery,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",406
+2020_03_18_CBD3_CBD6,CC038_S64,Discovery,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",407
+2020_03_18_CBD3_CBD6,CC039_S88,Discovery,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",408
+2020_03_18_CBD3_CBD6,CC040_S5,Discovery,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",409
+2020_03_18_CBD3_CBD6,CC041_S17,Discovery,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",410
+2020_03_18_CBD3_CBD6,CC042_S29,Discovery,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",411
+2020_03_18_CBD3_CBD6,CC043_S41,Discovery,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3",412
+2020_03_18_CBD3_CBD6,CC044_S53,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3",413
+2020_03_18_CBD3_CBD6,CC046_S77,Discovery,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3",414
+2020_03_18_CBD3_CBD6,CC048_S6,Discovery,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3",415
+2020_03_18_CBD3_CBD6,CC049_S18,Discovery,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3",416
+2020_03_18_CBD3_CBD6,CC050_S42,Discovery,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3",417
+2020_03_18_CBD3_CBD6,CC051_S54,Discovery,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3",418
+2020_03_18_CBD3_CBD6,CC052_S66,Discovery,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3",419
+2020_03_18_CBD3_CBD6,CC053_S78,Discovery,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3",420
+2020_03_18_CBD3_CBD6,CC054_S90,Discovery,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3",421
+2020_03_18_CBD3_CBD6,CC055_S30,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD-CHO (Gibco),,,422
+2020_03_18_CBD3_CBD6,CC062_S67,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",423
+2020_03_18_CBD3_CBD6,CC063_S7,Discovery,,PAIRED,CHO-S,,,P,SerpinA,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",424
+2020_03_18_CBD3_CBD6,CC064_S19,Discovery,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",425
+2020_03_18_CBD3_CBD6,CC065_S31,Discovery,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",426
+2020_03_18_CBD3_CBD6,CC066_S43,Discovery,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",427
+2020_03_18_CBD3_CBD6,CC067_S55,Discovery,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",428
+2020_03_18_CBD3_CBD6,CC068_S79,Discovery,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",429
+2020_03_18_CBD3_CBD6,CC069_S91,Discovery,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",430
+2020_03_18_CBD3_CBD6,CC070_S8,Discovery,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",431
+2020_03_18_CBD3_CBD6,CC071_S20,Discovery,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",432
+2020_03_18_CBD3_CBD6,CC072_S32,Discovery,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD-CHO (Gibco),,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3",433
+2020_03_18_CBD3_CBD6,CC073_S44,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD-CHO (Gibco),,"B4galt1,B4galt2,B4galt3",434
+2020_03_18_CBD3_CBD6,CC074_S56,Discovery,,PAIRED,CHO-S,,,P,SerpinA,YES,,,,NO,,CD-CHO (Gibco),,"B4galt1,B4galt2,B4galt3",435
+2020_03_18_CBD3_CBD6,CC076_S80,Discovery,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD-CHO (Gibco),,"B4galt1,B4galt2,B4galt3",436
+2020_03_18_CBD3_CBD6,CC077_S92,Discovery,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD-CHO (Gibco),,"B4galt1,B4galt2,B4galt3",437
+2020_03_18_CBD3_CBD6,CC078_S9,Discovery,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD-CHO (Gibco),,"B4galt1,B4galt2,B4galt3",438
+2020_03_18_CBD3_CBD6,CC079_S33,Discovery,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD-CHO (Gibco),,"B4galt1,B4galt2,B4galt3",439
+2020_03_18_CBD3_CBD6,CC080_S45,Discovery,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD-CHO (Gibco),,"B4galt1,B4galt2,B4galt3",440
+2020_03_18_CBD3_CBD6,CC081_S57,Discovery,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD-CHO (Gibco),,"B4galt1,B4galt2,B4galt3",441
+2020_03_18_CBD3_CBD6,CC084_S21,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD-CHO (Gibco),,,442
+2020_03_18_CBD3_CBD6,CC091_S70,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",443
+2020_03_18_CBD3_CBD6,CC092_S10,Discovery,,PAIRED,CHO-S,,,P,SerpinA,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",444
+2020_03_18_CBD3_CBD6,CC093_S22,Discovery,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",445
+2020_03_18_CBD3_CBD6,CC094_S34,Discovery,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",446
+2020_03_18_CBD3_CBD6,CC095_S46,Discovery,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",447
+2020_03_18_CBD3_CBD6,CC096_S58,Discovery,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",448
+2020_03_18_CBD3_CBD6,CC097_S82,Discovery,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",449
+2020_03_18_CBD3_CBD6,CC099_S11,Discovery,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",450
+2020_03_18_CBD3_CBD6,CC100_S23,Discovery,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",451
+2020_03_18_CBD3_CBD6,CC101_S35,Discovery,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD-CHO (Gibco),,"B3gnt2,Sppl3",452
+2020_03_18_CBD3_CBD6,CC102_S47,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B3gnt2,Sppl3",453
+2020_03_18_CBD3_CBD6,CC106_S95,Discovery,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B3gnt2,Sppl3",454
+2020_03_18_CBD3_CBD6,CC107_S12,Discovery,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B3gnt2,Sppl3",455
+2020_03_18_CBD3_CBD6,CC108_S36,Discovery,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B3gnt2,Sppl3",456
+2020_03_18_CBD3_CBD6,CC109_S48,Discovery,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B3gnt2,Sppl3",457
+2020_03_18_CBD3_CBD6,CC110_S60,Discovery,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD-CHO (Gibco),,"Mgat2,Fut8,B3gnt2,Sppl3",458
+2020_03_18_CBD3_CBD6,CC113_S24,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD-CHO (Gibco),,,459
+2020_03_18_CBD3_CBD6,CHO-S-wt_S1,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,460
+2020_03_18_CBD3_CBD6,CHO-S-wt_S28,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,461
+2020_03_18_CBD3_CBD6,CHO-S-wt_S96,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,462
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-LN-24-rep1_S84,Discovery,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,,463
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-LN-24-rep2_S85,Discovery,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,,464
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-LN-24-rep3_S86,Discovery,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,,465
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-PRKDCplus-LN-63-rep1_S87,Discovery,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,,466
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-PRKDCplus-LN-63-rep2_S88,Discovery,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,,467
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-PRKDCplus-LN-63-rep3_S89,Discovery,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,,468
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-WT-LN-27-rep1_S81,Discovery,,PAIRED,CHO-K1,,,P,GFP,,,,,NO,,F-12K medium,,,469
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-WT-LN-27-rep2_S82,Discovery,,PAIRED,CHO-K1,,,P,GFP,,,,,NO,,F-12K medium,,,470
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-WT-LN-27-rep3_S83,Discovery,,PAIRED,CHO-K1,,,P,GFP,,,,,NO,,F-12K medium,,,471
+2020_08_CBD7_CBD10,CC122_S13,Discovery,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD-CHO (Gibco),,"St3gal3,St3gal4,St3gal6",472
+2020_08_CBD7_CBD10,CC123_S25,Discovery,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD-CHO (Gibco),,"St3gal3,St3gal4,St3gal6",473
+2020_08_CBD7_CBD10,CC124_S37,Discovery,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD-CHO (Gibco),,"St3gal3,St3gal4,St3gal6",474
+2020_08_CBD7_CBD10,CC125_S49,Discovery,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD-CHO (Gibco),,"St3gal3,St3gal4,St3gal6",475
+2020_08_CBD7_CBD10,CC126_S61,Discovery,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD-CHO (Gibco),,"St3gal3,St3gal4,St3gal6",476
+2020_08_CBD7_CBD10,CC127_S85,Discovery,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD-CHO (Gibco),,"St3gal3,St3gal4,St3gal6",477
+2020_08_CBD7_CBD10,CC128_S2,Discovery,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD-CHO (Gibco),,"St3gal3,St3gal4,St3gal6",478
+2020_08_CBD7_CBD10,CC129_S14,Discovery,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD-CHO (Gibco),,"St3gal3,St3gal4,St3gal6",479
+2020_08_CBD7_CBD10,CC130_S26,Discovery,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD-CHO (Gibco),,"St3gal3,St3gal4,St3gal6",480
+2020_08_CBD7_CBD10,CC131_S38,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3",481
+2020_08_CBD7_CBD10,CC133_S62,Discovery,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3",482
+2020_08_CBD7_CBD10,CC135_S86,Discovery,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3",483
+2020_08_CBD7_CBD10,CC136_S3,Discovery,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3",484
+2020_08_CBD7_CBD10,CC137_S15,Discovery,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3",485
+2020_08_CBD7_CBD10,CC139_S51,Discovery,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3",486
+2020_08_CBD7_CBD10,CC140_S63,Discovery,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3",487
+2020_08_CBD7_CBD10,CC141_S75,Discovery,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD-CHO (Gibco),,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3",488
+2020_08_CBD7_CBD10,CC142_S87,Discovery,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD-CHO (Gibco),,,489
+2020_08_CBD7_CBD10,CC144_S73,Discovery,,PAIRED,CHO-S,,,P,SerpinA,,,,,NO,,CD-CHO (Gibco),,,490
+2020_08_CBD7_CBD10,CC145_S50,Discovery,,PAIRED,CHO-S,,,P,SerpinA,,,,,NO,,CD-CHO (Gibco),,,491
+2020_08_CBD7_CBD10,CC146_S27,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,492
+2020_08_CBD7_CBD10,CC150_S4,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,493
+2020_08_CBD7_CBD10,CC151_S16,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,494
+2020_08_CBD7_CBD10,CC152_S40,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,495
+2020_08_CBD7_CBD10,CC153_S52,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,496
+2020_08_CBD7_CBD10,CC154_S64,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,497
+2020_08_CBD7_CBD10,CC155_S88,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,498
+2020_08_CBD7_CBD10,CC156_S5,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,499
+2020_08_CBD7_CBD10,CC157_S17,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,500
+2020_08_CBD7_CBD10,CC158_S29,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,501
+2020_08_CBD7_CBD10,CC159_S41,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,502
+2020_08_CBD7_CBD10,CC161_S65,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,503
+2020_08_CBD7_CBD10,CC162_S77,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,504
+2020_08_CBD7_CBD10,CC163_S89,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,505
+2020_08_CBD7_CBD10,CC164_S6,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,506
+2020_08_CBD7_CBD10,CC165_S18,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,507
+2020_08_CBD7_CBD10,CC166_S42,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,508
+2020_08_CBD7_CBD10,CC167_S54,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,509
+2020_08_CBD7_CBD10,CC168_S66,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,510
+2020_08_CBD7_CBD10,CC169_S78,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,511
+2020_08_CBD7_CBD10,CC170_S90,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,512
+2020_08_CBD7_CBD10,CC172_S76,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,513
+2020_08_CBD7_CBD10,CC173_S53,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,514
+2020_08_CBD7_CBD10,CC174_S30,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,515
+2020_08_CBD7_CBD10,CC179_S7,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,516
+2020_08_CBD7_CBD10,CC180_S19,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,517
+2020_08_CBD7_CBD10,CC181_S31,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,518
+2020_08_CBD7_CBD10,CC182_S43,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,519
+2020_08_CBD7_CBD10,CC183_S55,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,520
+2020_08_CBD7_CBD10,CC184_S79,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,521
+2020_08_CBD7_CBD10,CC185_S91,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,522
+2020_08_CBD7_CBD10,CC186_S8,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,523
+2020_08_CBD7_CBD10,CC187_S20,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,524
+2020_08_CBD7_CBD10,CC188_S32,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,525
+2020_08_CBD7_CBD10,CC190_S56,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,526
+2020_08_CBD7_CBD10,CC191_S68,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,527
+2020_08_CBD7_CBD10,CC192_S80,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,528
+2020_08_CBD7_CBD10,CC193_S92,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,529
+2020_08_CBD7_CBD10,CC194_S9,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,530
+2020_08_CBD7_CBD10,CC195_S33,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,531
+2020_08_CBD7_CBD10,CC196_S45,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,532
+2020_08_CBD7_CBD10,CC197_S57,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,533
+2020_08_CBD7_CBD10,CC198_S81,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,534
+2020_08_CBD7_CBD10,CC199_S93,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,535
+2020_08_CBD7_CBD10,CC201_S67,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,536
+2020_08_CBD7_CBD10,CC202_S44,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,537
+2020_08_CBD7_CBD10,CC203_S21,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,538
+2020_08_CBD7_CBD10,CC208_S10,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,539
+2020_08_CBD7_CBD10,CC209_S22,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,540
+2020_08_CBD7_CBD10,CC210_S34,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,541
+2020_08_CBD7_CBD10,CC211_S46,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,542
+2020_08_CBD7_CBD10,CC212_S58,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,543
+2020_08_CBD7_CBD10,CC213_S82,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,544
+2020_08_CBD7_CBD10,CC214_S94,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,545
+2020_08_CBD7_CBD10,CC215_S11,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,546
+2020_08_CBD7_CBD10,CC216_S23,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,547
+2020_08_CBD7_CBD10,CC217_S35,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,548
+2020_08_CBD7_CBD10,CC219_S59,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,549
+2020_08_CBD7_CBD10,CC220_S71,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,550
+2020_08_CBD7_CBD10,CC221_S83,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,551
+2020_08_CBD7_CBD10,CC222_S95,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,552
+2020_08_CBD7_CBD10,CC223_S12,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,553
+2020_08_CBD7_CBD10,CC224_S36,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,554
+2020_08_CBD7_CBD10,CC225_S48,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,555
+2020_08_CBD7_CBD10,CC226_S60,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,556
+2020_08_CBD7_CBD10,CC227_S72,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,557
+2020_08_CBD7_CBD10,CC228_S84,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,558
+2020_08_CBD7_CBD10,CC230_S70,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,559
+2020_08_CBD7_CBD10,CC231_S47,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,560
+2020_08_CBD7_CBD10,CC232_S24,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,561
+2020_08_CBD7_CBD10,CHO-Swt_S1.1,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,562
+2020_08_CBD7_CBD10,CHO-Swt_S28,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,563
+2020_08_CBD7_CBD10,CHO-Swt_S69,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,564
+2020_08_CBD7_CBD10,CHO-Swt_S96,Discovery,,PAIRED,CHO-S,,,NP,NA,,,,,NO,,,,,565
+2021_03_17_FcBAR_CHO,CHO-A4_Rep1_S60,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,566
+2021_03_17_FcBAR_CHO,CHO-A4_Rep2_S61,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,567
+2021_03_17_FcBAR_CHO,CHO-A4_Rep3_S62,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,568
+2021_03_17_FcBAR_CHO,CHO-A6_Rep1_S63,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,569
+2021_03_17_FcBAR_CHO,CHO-A6_Rep2_S64,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,570
+2021_03_17_FcBAR_CHO,CHO-A6_Rep3_S65,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,571
+2021_03_17_FcBAR_CHO,CHO-B2_Rep1_S66,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD-CHO (Gibco),PolyA,,572
+2021_03_17_FcBAR_CHO,CHO-B2_Rep2_S67,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD-CHO (Gibco),PolyA,,573
+2021_03_17_FcBAR_CHO,CHO-B2_Rep3_S68,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD-CHO (Gibco),PolyA,,574
+2021_03_17_FcBAR_CHO,CHO-B5_Rep1_S69,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD-CHO (Gibco),PolyA,,575
+2021_03_17_FcBAR_CHO,CHO-B5_Rep2_S70,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD-CHO (Gibco),PolyA,,576
+2021_03_17_FcBAR_CHO,CHO-B5_Rep3_S71,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD-CHO (Gibco),PolyA,,577
+2021_03_17_FcBAR_CHO,CHO-E10_Rep1_S81,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD-CHO (Gibco),PolyA,,578
+2021_03_17_FcBAR_CHO,CHO-E10_Rep2_S82,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD-CHO (Gibco),PolyA,,579
+2021_03_17_FcBAR_CHO,CHO-E10_Rep3_S83,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD-CHO (Gibco),PolyA,,580
+2021_03_17_FcBAR_CHO,CHO-E6_Rep1_S72,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD-CHO (Gibco),PolyA,,581
+2021_03_17_FcBAR_CHO,CHO-E6_Rep2_S73,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD-CHO (Gibco),PolyA,,582
+2021_03_17_FcBAR_CHO,CHO-E6_Rep3_S74,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD-CHO (Gibco),PolyA,,583
+2021_03_17_FcBAR_CHO,CHO-E7_Rep1_S75,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,584
+2021_03_17_FcBAR_CHO,CHO-E7_Rep2_S76,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,585
+2021_03_17_FcBAR_CHO,CHO-E7_Rep3_S77,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,586
+2021_03_17_FcBAR_CHO,CHO-E9_Rep1_S78,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD-CHO (Gibco),PolyA,,587
+2021_03_17_FcBAR_CHO,CHO-E9_Rep2_S79,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD-CHO (Gibco),PolyA,,588
+2021_03_17_FcBAR_CHO,CHO-E9_Rep3_S80,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD-CHO (Gibco),PolyA,,589
+2021_03_17_FcBAR_CHO,CHO-F1_Rep1_S84,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,590
+2021_03_17_FcBAR_CHO,CHO-F1_Rep2_S85,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,591
+2021_03_17_FcBAR_CHO,CHO-F1_Rep3_S86,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD-CHO (Gibco),PolyA,,592
+2021_03_17_FcBAR_CHO,CHO-G12_Rep1_S87,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD-CHO (Gibco),PolyA,,593
+2021_03_17_FcBAR_CHO,CHO-G12_Rep2_S88,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD-CHO (Gibco),PolyA,,594
+2021_03_17_FcBAR_CHO,CHO-G12_Rep3_S89,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD-CHO (Gibco),PolyA,,595
+2021_03_17_FcBAR_CHO,CHO-LAMA_Rep1_S90,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,,NO,E,CD-CHO (Gibco),PolyA,,596
+2021_03_17_FcBAR_CHO,CHO-LAMA_Rep2_S91,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,,NO,E,CD-CHO (Gibco),PolyA,,597
+2021_03_17_FcBAR_CHO,CHO-LAMA_Rep3_S92,Discovery,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,NP,NA,YES,Batch,NA,,NO,E,CD-CHO (Gibco),PolyA,,598
+GC,D5_CCM1,Discovery,,PAIRED,CHO-DG44,Day5,5,P,mAb,YES,Fedbatch,NA,,NO,E,GC Biopharma platform basal medium,,NTS,599
+GC,D11_CCM1,Discovery,,PAIRED,CHO-DG44,Day11,11,P,mAb,YES,Fedbatch,NA,,NO,S,GC Biopharma platform basal medium,,NTS,600
+GC,D3_ADAM,Discovery,,PAIRED,CHO-DG44,Day3,3,P,mAb,YES,Fedbatch,NA,,NO,E,GC Biopharma platform basal medium,,NTS,601
+GC,D9_ADAM,Discovery,,PAIRED,CHO-DG44,Day9,9,P,mAb,YES,Fedbatch,NA,,YES,S,GC Biopharma platform basal medium,,TS,602
+GC,D4_K1B1,Discovery,,PAIRED,CHO-K1,Day4,4,NP,NA,YES,Fedbatch,NA,,NO,E,GC Biopharma platform basal medium,,NTS,603
+GC,D9_K1B1,Discovery,,PAIRED,CHO-K1,Day9,9,NP,NA,YES,Fedbatch,NA,,YES,S,GC Biopharma platform basal medium,,TS,604
+PRJEB39258,ERR4319912,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),rRNA,1C11,605
+PRJEB39258,ERR4319913,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),rRNA,1C11,606
+PRJEB39258,ERR4319914,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),rRNA,1C11,607
+PRJEB39258,ERR4319915,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),rRNA,1E3,608
+PRJEB39258,ERR4319916,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),rRNA,1E3,609
+PRJEB39258,ERR4319917,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),rRNA,1E3,610
+PRJEB39258,ERR4319918,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Low,FALSE,NO,E,FortiCHO (Gibco),rRNA,5G10,611
+PRJEB39258,ERR4319919,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Low,FALSE,NO,E,FortiCHO (Gibco),rRNA,5G10,612
+PRJEB39258,ERR4319920,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Low,FALSE,NO,E,FortiCHO (Gibco),rRNA,5G10,613
+PRJEB39258,ERR4319921,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),rRNA,6A6,614
+PRJEB39258,ERR4319922,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),rRNA,6A6,615
+PRJEB39258,ERR4319923,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),rRNA,6A6,616
+PRJEB39258,ERR4319924,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,High,FALSE,NO,E,FortiCHO (Gibco),rRNA,6H1,617
+PRJEB39258,ERR4319925,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,High,FALSE,NO,E,FortiCHO (Gibco),rRNA,6H1,618
+PRJEB39258,ERR4319926,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,High,FALSE,NO,E,FortiCHO (Gibco),rRNA,6H1,619
+PRJEB39258,ERR4319927,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,NP,NA,NO,Fedbatch,NA,NA,NO,E,FortiCHO (Gibco),rRNA,C1835A,620
+PRJEB39258,ERR4319928,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,NP,NA,NO,Fedbatch,NA,NA,NO,E,FortiCHO (Gibco),rRNA,C1835A,621
+PRJEB39258,ERR4319929,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,NP,NA,NO,Fedbatch,NA,NA,NO,E,FortiCHO (Gibco),rRNA,C1835A,622
+PRJEB39258,ERR4319930,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,NP,NA,NO,Fedbatch,NA,NA,NO,E,FortiCHO (Gibco),rRNA,C3234A,623
+PRJEB39258,ERR4319931,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,NP,NA,NO,Fedbatch,NA,NA,NO,E,FortiCHO (Gibco),rRNA,C3234A,624
+PRJEB39258,ERR4319932,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,NP,NA,NO,Fedbatch,NA,NA,NO,E,FortiCHO (Gibco),rRNA,C3234A,625
+PRJEB39258,ERR4319933,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,High,TRUE,NO,E,FortiCHO (Gibco),rRNA,G9,626
+PRJEB39258,ERR4319934,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,High,TRUE,NO,E,FortiCHO (Gibco),rRNA,G9,627
+PRJEB39258,ERR4319935,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,P,mAb,YES,Fedbatch,High,TRUE,NO,E,FortiCHO (Gibco),rRNA,G9,628
+PRJEB39258,ERR4319936,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,NP,NA,NO,Fedbatch,NA,NA,NO,E,FortiCHO (Gibco),rRNA,PE24,629
+PRJEB39258,ERR4319937,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,NP,NA,NO,Fedbatch,NA,NA,NO,E,FortiCHO (Gibco),rRNA,PE24,630
+PRJEB39258,ERR4319938,Discovery,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2,NP,NA,NO,Fedbatch,NA,NA,NO,E,FortiCHO (Gibco),rRNA,PE24,631
+PRJEB9291,ERR2593198,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,17h,0.708333333,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,,632
+PRJEB9291,ERR2593199,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,42h,1.75,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,,633
+PRJEB9291,ERR2593200,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,66h,2.75,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,,634
+PRJEB9291,ERR2593201,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,70h,2.916666667,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,,635
+PRJEB9291,ERR2593202,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,114h,4.75,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),total RNA,,636
+PRJEB9291,ERR2593203,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,138h,5.75,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),total RNA,,637
+PRJEB9291,ERR2593204,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,162h,6.75,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),total RNA,,638
+PRJEB9291,ERR2593205,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,186h,7.75,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),total RNA,,639
+PRJEB9291,ERR2593206,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,210h,8.75,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),total RNA,,640
+PRJNA214684,SRR950107,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,NA,NA,P,TLQP responsive,NO,NA,NA,NA,NO,NA,NA,total RNA,,641
+PRJNA214684,SRR950108,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,NA,NA,P,TLQP responsive,NO,NA,NA,NA,NO,NA,NA,total RNA,,642
+PRJNA214684,SRR950109,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,NA,NA,P,TLQP responsive,NO,NA,NA,NA,NO,NA,NA,total RNA,,643
+PRJNA304606,SRR2968323,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,NO,NA,NA,NA,NO,NA,F-12K medium,total RNA,control,644
+PRJNA304606,SRR2968324,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,NA,NO,NA,NA,NA,NO,NA,F-12K medium,total RNA,control,645
+PRJNA304606,SRR2968325,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,defect in xylosyltransferase,YES,NA,NA,NA,NO,NA,F-12K medium,total RNA,pgsA745,646
+PRJNA304606,SRR2968326,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,defect in xylosyltransferase,YES,NA,NA,NA,NO,NA,F-12K medium,total RNA,pgsA745,647
+PRJNA304606,SRR2968327,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,restore xylT1,YES,NA,NA,NA,NO,NA,F-12K medium,total RNA,pgsA745 restore xylT1,648
+PRJNA304606,SRR2968328,Discovery,Illumina HiSeq 2500,PAIRED,CHO-K1,NA,NA,NP,restore xylT1,YES,NA,NA,NA,NO,NA,F-12K medium,total RNA,pgsA745 restore xylT1,649
+PRJNA311594,SRR3161757,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,650
+PRJNA311594,SRR3161758,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,651
+PRJNA311594,SRR3161759,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,652
+PRJNA311594,SRR3161760,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,653
+PRJNA311594,SRR3161761,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,654
+PRJNA311594,SRR3161762,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,655
+PRJNA311594,SRR3161763,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,656
+PRJNA311594,SRR3161764,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,657
+PRJNA311594,SRR3161765,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,658
+PRJNA311594,SRR3161766,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,659
+PRJNA311594,SRR3161767,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,660
+PRJNA311594,SRR3161768,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,661
+PRJNA311594,SRR3161769,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,662
+PRJNA311594,SRR3161770,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,663
+PRJNA311594,SRR3161771,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,664
+PRJNA311594,SRR3161772,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,665
+PRJNA311594,SRR3161773,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,666
+PRJNA311594,SRR3161774,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,667
+PRJNA311594,SRR3161775,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,668
+PRJNA311594,SRR3161776,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5,NP,NA,NO,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,,669
+PRJNA311594,SRR3161777,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,670
+PRJNA311594,SRR3161778,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,671
+PRJNA311594,SRR3161779,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,672
+PRJNA311594,SRR3161780,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,673
+PRJNA311594,SRR3161781,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,674
+PRJNA311594,SRR3161782,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,675
+PRJNA311594,SRR3161783,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,676
+PRJNA311594,SRR3161784,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,677
+PRJNA311594,SRR3161785,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,678
+PRJNA311594,SRR3161786,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,679
+PRJNA311594,SRR3161787,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,680
+PRJNA311594,SRR3161788,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,681
+PRJNA311594,SRR3161789,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,682
+PRJNA311594,SRR3161790,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,683
+PRJNA311594,SRR3161791,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,684
+PRJNA311594,SRR3161792,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7,NP,NA,NO,Batch,NA,NA,NO,S,CD-CHO (Gibco),PolyA,,685
+PRJNA311594,SRR3161793,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),PolyA,,686
+PRJNA311594,SRR3161794,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),PolyA,,687
+PRJNA311594,SRR3161795,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),PolyA,,688
+PRJNA311594,SRR3161796,Discovery,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,NA,NO,Batch,NA,NA,NO,D,CD-CHO (Gibco),PolyA,,689
+PRJNA318886,SRR3401745,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,24h,1,NP,NA,NO,Batch,NA,NA,NO,E,PowerCHO (Lonza),total RNA,1_1_CHO-K1_exp,690
+PRJNA318886,SRR3401746,Discovery,Illumina HiSeq 2000,PAIRED,CHO-K1,120h,5,NP,NA,NO,Batch,NA,NA,NO,E,PowerCHO (Lonza),total RNA,1_2_CHO-K1_sta,691
+PRJNA318886,SRR3401747,Discovery,Illumina HiSeq 2000,PAIRED,CHO-DG44,48h,2,P,mAb,YES,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,2_1_1_CHO-DG44 IgG_exp_NEAA,692
+PRJNA318886,SRR3401748,Discovery,Illumina HiSeq 2000,PAIRED,CHO-DG44,120h,5,P,mAb,YES,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,2_1_2_CHO-DG44 IgG_sta_NEAA,693
+PRJNA318886,SRR3401749,Discovery,Illumina HiSeq 2000,PAIRED,CHO-DG44,48h,2,P,mAb,YES,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,2_2_1_CHO-DG44 IgG_exp,694
+PRJNA318886,SRR3401750,Discovery,Illumina HiSeq 2000,PAIRED,CHO-DG44,120h,5,P,mAb,YES,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,2_2_2_CHO-DG44 IgG_sta,695
+PRJNA318886,SRR3401751,Discovery,Illumina HiSeq 2000,PAIRED,CHO-DG44,48h,2,P,mAb,YES,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,2_3_1_CHO-DG44 IgG_exp_NaBu,696
+PRJNA318886,SRR3401752,Discovery,Illumina HiSeq 2000,PAIRED,CHO-DG44,120h,5,P,mAb,YES,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,2_3_2_CHO-DG44 IgG_sta_NaBu,697
+PRJNA593052,SRR10572657,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3,P,mAb,YES,Batch,NA,NA,NO,E,SFM-II media (Gibco),total RNA,37_biological replicate 4,698
+PRJNA593052,SRR10572658,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3,P,mAb,YES,Batch,NA,NA,NO,E,SFM-II media (Gibco),total RNA,37_biological replicate 3,699
+PRJNA593052,SRR10572659,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3,P,mAb,YES,Batch,NA,NA,NO,E,SFM-II media (Gibco),total RNA,37_biological replicate 2,700
+PRJNA593052,SRR10572660,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3,P,mAb,YES,Batch,NA,NA,NO,E,SFM-II media (Gibco),total RNA,37_biological replicate 1,701
+PRJNA593052,SRR10572661,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3,P,mAb,YES,Batch,NA,NA,YES,E,SFM-II media (Gibco),total RNA,31_biological replicate 4,702
+PRJNA593052,SRR10572662,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3,P,mAb,YES,Batch,NA,NA,YES,E,SFM-II media (Gibco),total RNA,31_biological replicate 3,703
+PRJNA593052,SRR10572663,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3,P,mAb,YES,Batch,NA,NA,YES,E,SFM-II media (Gibco),total RNA,31_biological replicate 2,704
+PRJNA593052,SRR10572664,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3,P,mAb,YES,Batch,NA,NA,YES,E,SFM-II media (Gibco),total RNA,31_biological replicate 1,705
+PRJNA604220,SRR10995631,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT_Rituxi_Day4_rep1,706
+PRJNA604220,SRR10995632,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT_Rituxi_Day4_rep1,707
+PRJNA604220,SRR10995633,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT_Rituxi_Day4_rep1,708
+PRJNA604220,SRR10995634,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT_Rituxi_Day4_rep1,709
+PRJNA604220,SRR10995635,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT_Rituxi_Day6_rep1,710
+PRJNA604220,SRR10995636,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT_Rituxi_Day6_rep1,711
+PRJNA604220,SRR10995637,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT_Rituxi_Day6_rep1,712
+PRJNA604220,SRR10995638,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT_Rituxi_Day6_rep1,713
+PRJNA604220,SRR10995639,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,NO,Fedbatch,High,FALSE,NO,S,FortiCHO (Gibco),PolyA,WT_Rituxi_Day8_rep1,714
+PRJNA604220,SRR10995640,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,NO,Fedbatch,High,FALSE,NO,S,FortiCHO (Gibco),PolyA,WT_Rituxi_Day8_rep1,715
+PRJNA604220,SRR10995641,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,NO,Fedbatch,High,FALSE,NO,S,FortiCHO (Gibco),PolyA,WT_Rituxi_Day8_rep1,716
+PRJNA604220,SRR10995642,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,NO,Fedbatch,High,FALSE,NO,S,FortiCHO (Gibco),PolyA,WT_Rituxi_Day8_rep1,717
+PRJNA604220,SRR10995643,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT-Rituxi-Day4_rep2,718
+PRJNA604220,SRR10995644,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT-Rituxi-Day4_rep2,719
+PRJNA604220,SRR10995645,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT-Rituxi-Day4_rep2,720
+PRJNA604220,SRR10995646,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT-Rituxi-Day4_rep2,721
+PRJNA604220,SRR10995647,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT-Rituxi-Day6_rep2,722
+PRJNA604220,SRR10995648,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT-Rituxi-Day6_rep2,723
+PRJNA604220,SRR10995649,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT-Rituxi-Day6_rep2,724
+PRJNA604220,SRR10995650,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,NO,Fedbatch,Medium,FALSE,NO,E,FortiCHO (Gibco),PolyA,WT-Rituxi-Day6_rep2,725
+PRJNA604220,SRR10995651,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,NO,Fedbatch,High,FALSE,NO,S,FortiCHO (Gibco),PolyA,WT-Rituxi-Day8_rep2,726
+PRJNA604220,SRR10995652,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,NO,Fedbatch,High,FALSE,NO,S,FortiCHO (Gibco),PolyA,WT-Rituxi-Day8_rep2,727
+PRJNA604220,SRR10995653,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,NO,Fedbatch,High,FALSE,NO,S,FortiCHO (Gibco),PolyA,WT-Rituxi-Day8_rep2,728
+PRJNA604220,SRR10995654,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,NO,Fedbatch,High,FALSE,NO,S,FortiCHO (Gibco),PolyA,WT-Rituxi-Day8_rep2,729
+PRJNA604220,SRR10995655,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day4_rep1,730
+PRJNA604220,SRR10995656,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day4_rep1,731
+PRJNA604220,SRR10995657,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day4_rep1,732
+PRJNA604220,SRR10995658,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day4_rep1,733
+PRJNA604220,SRR10995659,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day6_rep1,734
+PRJNA604220,SRR10995660,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day6_rep1,735
+PRJNA604220,SRR10995661,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day6_rep1,736
+PRJNA604220,SRR10995662,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day6_rep1,737
+PRJNA604220,SRR10995663,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,High,TRUE,NO,S,FortiCHO (Gibco),PolyA,6X-Rituxi-Day8_rep1,738
+PRJNA604220,SRR10995664,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,High,TRUE,NO,S,FortiCHO (Gibco),PolyA,6X-Rituxi-Day8_rep1,739
+PRJNA604220,SRR10995665,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,High,TRUE,NO,S,FortiCHO (Gibco),PolyA,6X-Rituxi-Day8_rep1,740
+PRJNA604220,SRR10995666,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,High,TRUE,NO,S,FortiCHO (Gibco),PolyA,6X-Rituxi-Day8_rep1,741
+PRJNA604220,SRR10995667,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day4_rep2,742
+PRJNA604220,SRR10995668,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day4_rep2,743
+PRJNA604220,SRR10995669,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day4_rep2,744
+PRJNA604220,SRR10995670,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day4_rep2,745
+PRJNA604220,SRR10995671,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day6_rep2,746
+PRJNA604220,SRR10995672,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day6_rep2,747
+PRJNA604220,SRR10995673,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day6_rep2,748
+PRJNA604220,SRR10995674,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Medium,TRUE,NO,E,FortiCHO (Gibco),PolyA,6X-Rituxi-Day6_rep2,749
+PRJNA604220,SRR10995675,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,High,TRUE,NO,S,FortiCHO (Gibco),PolyA,6X-Rituxi-Day8_rep2,750
+PRJNA604220,SRR10995676,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,High,TRUE,NO,S,FortiCHO (Gibco),PolyA,6X-Rituxi-Day8_rep2,751
+PRJNA604220,SRR10995677,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,High,TRUE,NO,S,FortiCHO (Gibco),PolyA,6X-Rituxi-Day8_rep2,752
+PRJNA604220,SRR10995678,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,High,TRUE,NO,S,FortiCHO (Gibco),PolyA,6X-Rituxi-Day8_rep2,753
+PRJNA604220,SRR10995679,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day4_rep1,754
+PRJNA604220,SRR10995680,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day4_rep1,755
+PRJNA604220,SRR10995681,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day4_rep1,756
+PRJNA604220,SRR10995682,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day4_rep1,757
+PRJNA604220,SRR10995683,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day6_rep1,758
+PRJNA604220,SRR10995684,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day6_rep1,759
+PRJNA604220,SRR10995685,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day6_rep1,760
+PRJNA604220,SRR10995686,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day6_rep1,761
+PRJNA604220,SRR10995687,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,Low,TRUE,NO,S,FortiCHO (Gibco),PolyA,11X-Rituxi-Day8_rep1,762
+PRJNA604220,SRR10995688,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,Low,TRUE,NO,S,FortiCHO (Gibco),PolyA,11X-Rituxi-Day8_rep1,763
+PRJNA604220,SRR10995689,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,Low,TRUE,NO,S,FortiCHO (Gibco),PolyA,11X-Rituxi-Day8_rep1,764
+PRJNA604220,SRR10995690,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,Low,TRUE,NO,S,FortiCHO (Gibco),PolyA,11X-Rituxi-Day8_rep1,765
+PRJNA604220,SRR10995691,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day4_rep2,766
+PRJNA604220,SRR10995692,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day4_rep2,767
+PRJNA604220,SRR10995693,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day4_rep2,768
+PRJNA604220,SRR10995694,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day4_rep2,769
+PRJNA604220,SRR10995695,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day6_rep2,770
+PRJNA604220,SRR10995696,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day6_rep2,771
+PRJNA604220,SRR10995697,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day6_rep2,772
+PRJNA604220,SRR10995698,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6,P,mAb,YES,Fedbatch,Low,TRUE,NO,E,FortiCHO (Gibco),PolyA,11X-Rituxi-Day6_rep2,773
+PRJNA604220,SRR10995699,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,Low,TRUE,NO,S,FortiCHO (Gibco),PolyA,11X-Rituxi-Day8_rep2,774
+PRJNA604220,SRR10995700,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,Low,TRUE,NO,S,FortiCHO (Gibco),PolyA,11X-Rituxi-Day8_rep2,775
+PRJNA604220,SRR10995701,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,Low,TRUE,NO,S,FortiCHO (Gibco),PolyA,11X-Rituxi-Day8_rep2,776
+PRJNA604220,SRR10995702,Discovery,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8,P,mAb,YES,Fedbatch,Low,TRUE,NO,S,FortiCHO (Gibco),PolyA,11X-Rituxi-Day8_rep2,777
+PRJEB33024,ERR3374020,Validation,ILLUMINA,SINGLE,CHO-K1,48hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,48h in cell culture; 24h before TS,778
+PRJEB33024,ERR3374021,Validation,ILLUMINA,SINGLE,CHO-K1,48hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,48h in cell culture; 24h before TS,779
+PRJEB33024,ERR3374022,Validation,ILLUMINA,SINGLE,CHO-K1,68hr,2.833333333,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,68h in cell culture; 4h before TS,780
+PRJEB33024,ERR3374023,Validation,ILLUMINA,SINGLE,CHO-K1,68hr,2.833333333,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),PolyA,68h in cell culture; 4h before TS,781
+PRJEB33024,ERR3374024,Validation,ILLUMINA,SINGLE,CHO-K1,76hr,3.166666667,NP,NA,,Batch,NA,NA,YES,E,CD-CHO (Gibco),PolyA,76h in cell culture; 4h after TS,782
+PRJEB33024,ERR3374025,Validation,ILLUMINA,SINGLE,CHO-K1,76hr,3.166666667,NP,NA,,Batch,NA,NA,YES,E,CD-CHO (Gibco),PolyA,76h in cell culture; 4h after TS,783
+PRJEB33024,ERR3374026,Validation,ILLUMINA,SINGLE,CHO-K1,96hr,4,NP,NA,,Batch,NA,NA,YES,S,CD-CHO (Gibco),PolyA,96h in cell culture; 24h after TS,784
+PRJEB33024,ERR3374027,Validation,ILLUMINA,SINGLE,CHO-K1,96hr,4,NP,NA,,Batch,NA,NA,YES,S,CD-CHO (Gibco),PolyA,96h in cell culture; 24h after TS,785
+PRJEB33024,ERR3374028,Validation,ILLUMINA,SINGLE,CHO-K1,144hr,6,NP,NA,,Batch,NA,NA,YES,S,CD-CHO (Gibco),PolyA,144h in cell culture; 72h after TS,786
+PRJEB33024,ERR3374029,Validation,ILLUMINA,SINGLE,CHO-K1,144hr,6,NP,NA,,Batch,NA,NA,YES,S,CD-CHO (Gibco),PolyA,144h in cell culture; 72h after TS,787
+PRJEB37009,ERR3972086,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_0mMQ_R1,788
+PRJEB37009,ERR3972087,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_0mMQ_R2,789
+PRJEB37009,ERR3972088,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_0mMQ_sub2_R1,790
+PRJEB37009,ERR3972089,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_0mMQ_sub2_R2,791
+PRJEB37009,ERR3972090,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_8mMQ_R1,792
+PRJEB37009,ERR3972091,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_8mMQ_R2,793
+PRJEB37009,ERR3972092,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_8mMQ_sub2_R1,794
+PRJEB37009,ERR3972093,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_8mMQ_sub2_R2,795
+PRJEB37009,ERR3972094,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_Hy_R1(6mMQ),796
+PRJEB37009,ERR3972095,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_Hy_R2(6mMQ),797
+PRJEB37009,ERR3972096,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_Hy_sub2_R1(6mMQ),798
+PRJEB37009,ERR3972097,Validation,ILLUMINA,SINGLE,CHO-K1,45hr,1.875,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,K1_Hy_sub2_R2(6mMQ),799
+PRJEB38542,ERR4184070,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,Low,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_B3_Transcriptome_R1,800
+PRJEB38542,ERR4184071,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,Low,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_B3_Transcriptome_R2,801
+PRJEB38542,ERR4184072,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,Medium,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_C3_Transcriptome_R1,802
+PRJEB38542,ERR4184073,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,Medium,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_C3_Transcriptome_R2,803
+PRJEB38542,ERR4184074,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,Medium,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_C6_Transcriptome_R1,804
+PRJEB38542,ERR4184075,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,Medium,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_C6_Transcriptome_R2,805
+PRJEB38542,ERR4184076,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,Medium,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_C7_Transcriptome_R1,806
+PRJEB38542,ERR4184077,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,Medium,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_C7_Transcriptome_R2,807
+PRJEB38542,ERR4184078,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,High,FALSE,NO,E,CD-CHO (Gibco),total RNA,1_E2_Transcriptome_R1,808
+PRJEB38542,ERR4184079,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,High,FALSE,NO,E,CD-CHO (Gibco),total RNA,1_E2_Transcriptome_R2,809
+PRJEB38542,ERR4184080,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,High,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_E7_Transcriptome_R1,810
+PRJEB38542,ERR4184081,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,High,TRUE,NO,E,CD-CHO (Gibco),total RNA,1_E7_Transcriptome_R2,811
+PRJEB38542,ERR4184082,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,Parent_Transcriptome_R1,812
+PRJEB38542,ERR4184083,Validation,ILLUMINA,SINGLE,CHO-DXB11,Day5,5,P,EPO-Fc,,Batch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,Parent_Transcriptome_R2,813
+PRJEB55916,ERR10745711,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_6h_R1,814
+PRJEB55916,ERR10745712,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_6h_R1,815
+PRJEB55916,ERR10745713,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_6h_R1,816
+PRJEB55916,ERR10745714,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_6h_R1,817
+PRJEB55916,ERR10745715,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_6h_R2,818
+PRJEB55916,ERR10745716,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_6h_R2,819
+PRJEB55916,ERR10745717,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_6h_R2,820
+PRJEB55916,ERR10745718,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_6h_R2,821
+PRJEB55916,ERR10745719,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_6h_R1,822
+PRJEB55916,ERR10745720,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_6h_R1,823
+PRJEB55916,ERR10745721,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_6h_R1,824
+PRJEB55916,ERR10745722,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_6h_R1,825
+PRJEB55916,ERR10745723,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_6h_R2,826
+PRJEB55916,ERR10745724,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_6h_R2,827
+PRJEB55916,ERR10745725,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,6hr,0.25,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_6h_R2,828
+PRJEB55916,ERR10745726,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_24h_R1,829
+PRJEB55916,ERR10745727,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_24h_R1,830
+PRJEB55916,ERR10745728,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_24h_R1,831
+PRJEB55916,ERR10745729,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_24h_R1,832
+PRJEB55916,ERR10745730,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_24h_R2,833
+PRJEB55916,ERR10745731,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_24h_R2,834
+PRJEB55916,ERR10745732,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_24h_R2,835
+PRJEB55916,ERR10745733,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_24h_R2,836
+PRJEB55916,ERR10745734,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_24h_R1,837
+PRJEB55916,ERR10745735,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_24h_R1,838
+PRJEB55916,ERR10745736,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_24h_R1,839
+PRJEB55916,ERR10745737,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_24h_R1,840
+PRJEB55916,ERR10745738,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_24h_R2,841
+PRJEB55916,ERR10745739,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_24h_R2,842
+PRJEB55916,ERR10745740,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_24h_R2,843
+PRJEB55916,ERR10745741,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,24hr,1,NP,NA,,Batch,NA,NA,NO,L,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_24h_R2,844
+PRJEB55916,ERR10745742,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_48h_R1,845
+PRJEB55916,ERR10745743,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_48h_R1,846
+PRJEB55916,ERR10745744,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_48h_R1,847
+PRJEB55916,ERR10745745,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_48h_R1,848
+PRJEB55916,ERR10745746,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_48h_R2,849
+PRJEB55916,ERR10745747,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_48h_R2,850
+PRJEB55916,ERR10745748,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_48h_R2,851
+PRJEB55916,ERR10745749,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_8mMQ_48h_R2,852
+PRJEB55916,ERR10745750,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_48h_R1,853
+PRJEB55916,ERR10745751,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_48h_R1,854
+PRJEB55916,ERR10745752,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_48h_R1,855
+PRJEB55916,ERR10745753,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_48h_R1,856
+PRJEB55916,ERR10745754,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_48h_R2,857
+PRJEB55916,ERR10745755,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_48h_R2,858
+PRJEB55916,ERR10745756,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_48h_R2,859
+PRJEB55916,ERR10745757,Validation,Illumina NovaSeq 6000 sequencing,PAIRED,CHO-K1,48 hr,2,NP,NA,,Batch,NA,NA,NO,E,CD-CHO (Gibco),rRNA,CHO-K1_0mMQ_48h_R2,860
+PRJNA1130622,SRR29672912,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day3,3,P,mAb,NO,Batch,NA,TRUE,YES,E,CD-CHO (Gibco),total RNA,rCHO DP-12 33 degC pH 6.70 rep2,861
+PRJNA1130622,SRR29672913,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day3,3,P,mAb,NO,Batch,NA,TRUE,YES,E,CD-CHO (Gibco),total RNA,rCHO DP-12 33 degC pH 6.70 rep1,862
+PRJNA1130622,SRR29672914,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day3,3,P,mAb,NO,Batch,NA,TRUE,YES,E,CD-CHO (Gibco),total RNA,rCHO DP-12 33 degC pH 6.95 rep2,863
+PRJNA1130622,SRR29672915,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day3,3,P,mAb,NO,Batch,NA,TRUE,YES,E,CD-CHO (Gibco),total RNA,rCHO DP-12 33 degC pH 6.95 rep1,864
+PRJNA1130622,SRR29672916,Validation,ILLUMINA,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,CD-CHO (Gibco),total RNA,CHO K1-PF 37 degC pH 6.95 rep2,865
+PRJNA1130622,SRR29672917,Validation,ILLUMINA,PAIRED,CHO-K1,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,CD-CHO (Gibco),total RNA,CHO K1-PF 37 degC pH 6.95 rep1,866
+PRJNA1130622,SRR29672918,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,CD-CHO (Gibco),total RNA,rCHO DP-12 37 degC pH 6.95 rep2,867
+PRJNA1130622,SRR29672919,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,50DMEM-50CD-CHO,total RNA,CHO dhFr- 5% serum rep2,868
+PRJNA1130622,SRR29672920,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,50DMEM-50CD-CHO,total RNA,CHO dhFr- 5% serum rep1,869
+PRJNA1130622,SRR29672921,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,DMEM,total RNA,CHO dhFr- 10% serum rep2,870
+PRJNA1130622,SRR29672922,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,DMEM,total RNA,CHO dhFr- 10% serum rep1,871
+PRJNA1130622,SRR29672923,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,CD-CHO (Gibco),total RNA,rCHO DP-12 0% serum rep2,872
+PRJNA1130622,SRR29672924,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,50DMEM-50CD-CHO,total RNA,rCHO DP-12 5% serum rep2,873
+PRJNA1130622,SRR29672925,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,50DMEM-50CD-CHO,total RNA,rCHO DP-12 37 degC pH 6.95 rep1,874
+PRJNA1130622,SRR29672926,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,DMEM,total RNA,rCHO DP-12 10% serum rep1,875
+PRJNA1130622,SRR29672927,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,DMEM,total RNA,rCHO DP-12 10% serum rep2,876
+PRJNA1130622,SRR29672928,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,CD-CHO (Gibco),total RNA,rCHO DP-12 5% serum rep1,877
+PRJNA1130622,SRR29672929,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,NP,NA,NO,Batch,NA,TRUE,NO,E,CD-CHO (Gibco),total RNA,rCHO DP-12 0% serum rep1,878
+PRJNA1130622,SRR29672930,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,80DMEM-20CD-CHO,total RNA,rCHO DP-12 10mM glucose rep2,879
+PRJNA1130622,SRR29672931,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,80DMEM-20CD-CHO,total RNA,rCHO DP-12 30mM glucose rep2,880
+PRJNA1130622,SRR29672932,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Batch,NA,TRUE,YES,E,CD-CHO (Gibco),total RNA,CHO K1-PF 33 degC pH 6.95 rep2,881
+PRJNA1130622,SRR29672933,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Batch,NA,TRUE,YES,E,CD-CHO (Gibco),total RNA,CHO K1-PF 33 degC pH 6.70 rep2,882
+PRJNA1130622,SRR29672934,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Batch,NA,TRUE,YES,E,CD-CHO (Gibco),total RNA,CHO K1-PF 33 degC pH 6.70 rep1,883
+PRJNA1130622,SRR29672935,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,NP,NA,NO,Batch,NA,TRUE,YES,E,CD-CHO (Gibco),total RNA,CHO K1-PF 33 degC pH 6.95 rep1,884
+PRJNA1130622,SRR29672936,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,80DMEM-20CD-CHO,total RNA,rCHO DP-12 30mM glucose rep1,885
+PRJNA1130622,SRR29672937,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,80DMEM-20CD-CHO,total RNA,rCHO DP-12 10mM glucose rep1,886
+PRJNA1130622,SRR29672938,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,CD-CHO (Gibco),total RNA,rCHO DP-12 37 degC pH 6.70 rep2,887
+PRJNA1130622,SRR29672939,Validation,ILLUMINA,PAIRED,CHO-DXB11,Day2,2,P,mAb,NO,Batch,NA,TRUE,NO,E,CD-CHO (Gibco),total RNA,rCHO DP-12 37 degC pH 6.70 rep1,888
+PRJNA316065,SRR3284443,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day3,3,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,E,PowerCHO (Lonza),total RNA,day3_rep1,889
+PRJNA316065,SRR3284444,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day3,3,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,E,PowerCHO (Lonza),total RNA,day3_rep2,890
+PRJNA316065,SRR3284445,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day3,3,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,E,PowerCHO (Lonza),total RNA,day3_rep3,891
+PRJNA316065,SRR3284446,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day3,3,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,E,PowerCHO (Lonza),total RNA,day3_rep4,892
+PRJNA316065,SRR3284447,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day3,3,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,E,PowerCHO (Lonza),total RNA,day3_rep5,893
+PRJNA316065,SRR3284448,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day3,3,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,E,PowerCHO (Lonza),total RNA,day3_rep6,894
+PRJNA316065,SRR3284455,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day6,6,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,S,PowerCHO (Lonza),total RNA,day6_rep1,895
+PRJNA316065,SRR3284456,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day6,6,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,S,PowerCHO (Lonza),total RNA,day6_rep2,896
+PRJNA316065,SRR3284457,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day6,6,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,S,PowerCHO (Lonza),total RNA,day6_rep3,897
+PRJNA316065,SRR3284458,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day6,6,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,S,PowerCHO (Lonza),total RNA,day6_rep4,898
+PRJNA316065,SRR3284459,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day6,6,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,S,PowerCHO (Lonza),total RNA,day6_rep5,899
+PRJNA316065,SRR3284460,Validation,Illumina HiSeq 2500,SINGLE,CHO-DG44,Day6,6,P,chimeric IgG against S surface antigen of hepatitis B virus,,,,,NO,S,PowerCHO (Lonza),total RNA,day6_rep6,900
+PRJNA393479,SRR5812570,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),PolyA,high_rep1,901
+PRJNA393479,SRR5812571,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),PolyA,high_rep2,902
+PRJNA393479,SRR5812572,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),PolyA,high_rep3,903
+PRJNA393479,SRR5812573,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),PolyA,high_rep4,904
+PRJNA393479,SRR5812574,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),PolyA,high_rep5,905
+PRJNA393479,SRR5812575,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),PolyA,high_rep6,906
+PRJNA393479,SRR5812576,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,Low,,NO,E,PowerCHO (Lonza),PolyA,low_rep1,907
+PRJNA393479,SRR5812577,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,Low,,NO,E,PowerCHO (Lonza),PolyA,low_rep2,908
+PRJNA393479,SRR5812578,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,Low,,NO,E,PowerCHO (Lonza),PolyA,low_rep3,909
+PRJNA393479,SRR5812579,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,Low,,NO,E,PowerCHO (Lonza),PolyA,low_rep4,910
+PRJNA393479,SRR5812580,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,Low,,NO,E,PowerCHO (Lonza),PolyA,low_rep5,911
+PRJNA393479,SRR5812581,Validation,ILLUMINA,PAIRED,CHO-K1,,,P,mAb,,FedBatch,Low,,NO,E,PowerCHO (Lonza),PolyA,low_rep6,912
+PRJNA590485,SRR10493847,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),rRNA,3068 Day 4 rep2 (dataset 2),913
+PRJNA590485,SRR10493848,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),rRNA,3068 Day 4 rep3 (dataset 2),914
+PRJNA590485,SRR10493849,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,High,,NO,S,PowerCHO (Lonza),rRNA,3068 Day 7 rep1 (dataset 2),915
+PRJNA590485,SRR10493850,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,High,,NO,S,PowerCHO (Lonza),rRNA,3068 Day 7 rep2 (dataset 2),916
+PRJNA590485,SRR10493851,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,High,,NO,S,PowerCHO (Lonza),rRNA,3068 Day 7 rep3 (dataset 2),917
+PRJNA590485,SRR10493855,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),rRNA,3080 Day 4 rep1 (dataset 2),918
+PRJNA590485,SRR10493856,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,High,,NO,E,PowerCHO (Lonza),rRNA,3080 Day 4 rep2 (dataset 2),919
+PRJNA590485,SRR10493858,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,High,,NO,S,PowerCHO (Lonza),rRNA,3080 Day 7 rep1 (dataset 2),920
+PRJNA590485,SRR10493859,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,High,,NO,S,PowerCHO (Lonza),rRNA,3080 Day 7 rep2 (dataset 2),921
+PRJNA590485,SRR10493860,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,High,,NO,S,PowerCHO (Lonza),rRNA,3080 Day 7 rep3 (dataset 2),922
+PRJNA590485,SRR10493864,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,,,NO,E,PowerCHO (Lonza),rRNA,3936 Day 4 rep1 (dataset 2),923
+PRJNA590485,SRR10493865,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,,,NO,E,PowerCHO (Lonza),rRNA,3936 Day 4 rep2 (dataset 2),924
+PRJNA590485,SRR10493866,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,,,NO,E,PowerCHO (Lonza),rRNA,3936 Day 4 rep3 (dataset 2),925
+PRJNA590485,SRR10493867,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,,,NO,S,PowerCHO (Lonza),rRNA,3936 Day 7 rep1 (dataset 2),926
+PRJNA590485,SRR10493868,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,,,NO,S,PowerCHO (Lonza),rRNA,3936 Day 7 rep2 (dataset 2),927
+PRJNA590485,SRR10493869,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,,,NO,S,PowerCHO (Lonza),rRNA,3936 Day 7 rep3 (dataset 2),928
+PRJNA590485,SRR10493873,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,,,NO,E,PowerCHO (Lonza),rRNA,4384 Day 4 rep1 (dataset 2),929
+PRJNA590485,SRR10493874,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,,,NO,E,PowerCHO (Lonza),rRNA,4384 Day 4 rep2 (dataset 2),930
+PRJNA590485,SRR10493875,Validation,ILLUMINA,SINGLE,CHO-DG44,Day4,4,P,mAb,,FedBatch,,,NO,E,PowerCHO (Lonza),rRNA,4384 Day 4 rep3 (dataset 2),931
+PRJNA590485,SRR10493876,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,,,NO,S,PowerCHO (Lonza),rRNA,4384 Day 7 rep1 (dataset 2),932
+PRJNA590485,SRR10493877,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,,,NO,S,PowerCHO (Lonza),rRNA,4384 Day 7 rep2 (dataset 2),933
+PRJNA590485,SRR10493878,Validation,ILLUMINA,SINGLE,CHO-DG44,Day7,7,P,mAb,,FedBatch,,,NO,S,PowerCHO (Lonza),rRNA,4384 Day 7 rep3 (dataset 2),934
+PRJNA599947,SRR11184908,Validation,ILLUMINA,PAIRED,CHO-K1,Day6,6,P,mAb,,FedBatch,,TRUE,NO,E,ActiPro (Gibco),total RNA,BR8_D6_Amm10,935
+PRJNA599947,SRR11184909,Validation,ILLUMINA,PAIRED,CHO-K1,Day6,6,P,mAb,,FedBatch,,TRUE,NO,E,ActiPro (Gibco),total RNA,BR7_D6_Amm10,936
+PRJNA599947,SRR11184910,Validation,ILLUMINA,PAIRED,CHO-K1,Day6,6,P,mAb,,FedBatch,,TRUE,NO,E,ActiPro (Gibco),total RNA,BR6_D6_Amm0,937
+PRJNA599947,SRR11184911,Validation,ILLUMINA,PAIRED,CHO-K1,Day6,6,P,mAb,,FedBatch,,TRUE,NO,E,ActiPro (Gibco),total RNA,BR5_D6_Amm0,938
+PRJNA599947,SRR11184912,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,mAb,,FedBatch,,TRUE,NO,E,ActiPro (Gibco),total RNA,BR8_D3_Amm10,939
+PRJNA599947,SRR11184913,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,mAb,,FedBatch,,TRUE,NO,E,ActiPro (Gibco),total RNA,BR7_D3_Amm10,940
+PRJNA599947,SRR11184914,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,mAb,,FedBatch,,TRUE,NO,E,ActiPro (Gibco),total RNA,BR5_D3_Amm0,941
+PRJNA599947,SRR11184915,Validation,ILLUMINA,PAIRED,CHO-K1,Day9,9,P,mAb,,FedBatch,,TRUE,NO,S,ActiPro (Gibco),total RNA,BR8_D9_Amm10,942
+PRJNA599947,SRR11184916,Validation,ILLUMINA,PAIRED,CHO-K1,Day9,9,P,mAb,,FedBatch,,TRUE,NO,S,ActiPro (Gibco),total RNA,BR7_D9_Amm10,943
+PRJNA599947,SRR11184917,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,mAb,,FedBatch,,TRUE,NO,E,ActiPro (Gibco),total RNA,BR6_D3_Amm0,944
+PRJNA599947,SRR11184918,Validation,ILLUMINA,PAIRED,CHO-K1,Day9,9,P,mAb,,FedBatch,,TRUE,NO,S,ActiPro (Gibco),total RNA,BR6_D9_Amm0,945
+PRJNA599947,SRR11184919,Validation,ILLUMINA,PAIRED,CHO-K1,Day9,9,P,mAb,,FedBatch,,TRUE,NO,S,ActiPro (Gibco),total RNA,BR5_D9_Amm0,946
+PRJNA599947,SRR11184920,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,P,mAb,,FedBatch,,TRUE,NO,L,ActiPro (Gibco),total RNA,BR6_D0_Amm0,947
+PRJNA599947,SRR11184921,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,P,mAb,,FedBatch,,TRUE,NO,L,ActiPro (Gibco),total RNA,BR5_D0_Amm0,948
+PRJNA739051,SRR14860925,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,High,NA,NO,E,CD-CHO (Gibco),total RNA,Ab1-agg,949
+PRJNA739051,SRR14860926,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,Medium,NA,NO,E,CD-CHO (Gibco),total RNA,Ab1-less,950
+PRJNA739051,SRR14860927,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,Medium,NA,NO,E,CD-CHO (Gibco),total RNA,Ab1-less,951
+PRJNA739051,SRR14860928,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,Medium,NA,NO,E,CD-CHO (Gibco),total RNA,Ab1-less,952
+PRJNA739051,SRR14860929,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,NP,NA,,FedBatch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,GS_Null,953
+PRJNA739051,SRR14860930,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,NP,NA,,FedBatch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,GS_Null,954
+PRJNA739051,SRR14860931,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,NP,NA,,FedBatch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,GS_Null,955
+PRJNA739051,SRR14860932,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,NP,NA,,FedBatch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,CATS,956
+PRJNA739051,SRR14860933,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,Low,NA,NO,E,CD-CHO (Gibco),total RNA,Ab2-OPT-agg,957
+PRJNA739051,SRR14860934,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,Low,NA,NO,E,CD-CHO (Gibco),total RNA,Ab2-OPT-agg,958
+PRJNA739051,SRR14860935,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,Low,NA,NO,E,CD-CHO (Gibco),total RNA,Ab2-OPT-agg,959
+PRJNA739051,SRR14860936,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,Low,NA,NO,E,CD-CHO (Gibco),total RNA,Ab2-less,960
+PRJNA739051,SRR14860937,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,Low,NA,NO,E,CD-CHO (Gibco),total RNA,Ab2-less,961
+PRJNA739051,SRR14860938,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,Low,NA,NO,E,CD-CHO (Gibco),total RNA,Ab2-less,962
+PRJNA739051,SRR14860939,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,High,NA,NO,E,CD-CHO (Gibco),total RNA,Ab1-agg,963
+PRJNA739051,SRR14860940,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,P,BsAb,,FedBatch,High,NA,NO,E,CD-CHO (Gibco),total RNA,Ab1-agg,964
+PRJNA739051,SRR14860941,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,NP,NA,,FedBatch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,CATS,965
+PRJNA739051,SRR14860942,Validation,ILLUMINA,PAIRED,CHO-K1,Day8,8,NP,NA,,FedBatch,NA,NA,NO,E,CD-CHO (Gibco),total RNA,CATS,966
+PRJNA778050,SRR16796943,Validation,ILLUMINA,SINGLE,CHO-K1,Day3,3,P,mAb,,Batch,,TRUE,YES,E,CHO-S-SFM II (Gibco),rRNA,IgG producer; Temperature shifted replicate 4,967
+PRJNA778050,SRR16796944,Validation,ILLUMINA,SINGLE,CHO-K1,Day3,3,P,mAb,,Batch,,TRUE,YES,E,CHO-S-SFM II (Gibco),rRNA,IgG producer; Temperature shifted replicate 3,968
+PRJNA778050,SRR16796945,Validation,ILLUMINA,SINGLE,CHO-K1,Day3,3,P,mAb,,Batch,,TRUE,YES,E,CHO-S-SFM II (Gibco),rRNA,IgG producer; Temperature shifted replicate 2,969
+PRJNA778050,SRR16796946,Validation,ILLUMINA,SINGLE,CHO-K1,Day3,3,P,mAb,,Batch,,TRUE,YES,E,CHO-S-SFM II (Gibco),rRNA,IgG producer; Temperature shifted replicate 1,970
+PRJNA778050,SRR16796949,Validation,ILLUMINA,SINGLE,CHO-K1,Day3,3,P,mAb,,Batch,,TRUE,NO,E,CHO-S-SFM II (Gibco),rRNA,IgG producer; Non-temperature shifted replicate 4,971
+PRJNA778050,SRR16796960,Validation,ILLUMINA,SINGLE,CHO-K1,Day3,3,P,mAb,,Batch,,TRUE,NO,E,CHO-S-SFM II (Gibco),rRNA,IgG producer; Non-temperature shifted replicate 3,972
+PRJNA778050,SRR16796971,Validation,ILLUMINA,SINGLE,CHO-K1,Day3,3,P,mAb,,Batch,,TRUE,NO,E,CHO-S-SFM II (Gibco),rRNA,IgG producer; Non-temperature shifted replicate 2,973
+PRJNA778050,SRR16796972,Validation,ILLUMINA,SINGLE,CHO-K1,Day3,3,P,mAb,,Batch,,TRUE,NO,E,CHO-S-SFM II (Gibco),rRNA,IgG producer; Non-temperature shifted replicate 1,974
+PRJNA810994,SRR18163655,Validation,ILLUMINA,SINGLE,CHO-K1,Day14,14,P,mAb,,FedBatch,,TRUE,NO,D,G13 medium,PolyA,clone2-medium1-day14,975
+PRJNA810994,SRR18163656,Validation,ILLUMINA,SINGLE,CHO-K1,Day11,11,P,mAb,,FedBatch,,TRUE,NO,S,G13 medium,PolyA,clone2-medium1-day11,976
+PRJNA810994,SRR18163657,Validation,ILLUMINA,SINGLE,CHO-K1,Day9,9,P,mAb,,FedBatch,,TRUE,NO,S,G13 medium,PolyA,clone2-medium1-day9,977
+PRJNA810994,SRR18163658,Validation,ILLUMINA,SINGLE,CHO-K1,Day7,7,P,mAb,,FedBatch,,TRUE,NO,E,G13 medium,PolyA,clone2-medium1-day7,978
+PRJNA810994,SRR18163659,Validation,ILLUMINA,SINGLE,CHO-K1,Day4,4,P,mAb,,FedBatch,,TRUE,NO,E,G13 medium,PolyA,clone2-medium1-day4,979
+PRJNA810994,SRR18163660,Validation,ILLUMINA,SINGLE,CHO-K1,Day14,14,P,mAb,,FedBatch,,TRUE,NO,D,DA1 medium,PolyA,clone1-medium2-day14,980
+PRJNA810994,SRR18163661,Validation,ILLUMINA,SINGLE,CHO-K1,Day11,11,P,mAb,,FedBatch,,TRUE,NO,S,DA1 medium,PolyA,clone1-medium2-day11,981
+PRJNA810994,SRR18163662,Validation,ILLUMINA,SINGLE,CHO-K1,Day9,9,P,mAb,,FedBatch,,TRUE,NO,S,DA1 medium,PolyA,clone1-medium12day9,982
+PRJNA810994,SRR18163663,Validation,ILLUMINA,SINGLE,CHO-K1,Day7,7,P,mAb,,FedBatch,,TRUE,NO,E,DA1 medium,PolyA,clone1-medium2-day7,983
+PRJNA810994,SRR18163664,Validation,ILLUMINA,SINGLE,CHO-K1,Day4,4,P,mAb,,FedBatch,,TRUE,NO,E,DA1 medium,PolyA,clone1-medium2-day4,984
+PRJNA810994,SRR18163665,Validation,ILLUMINA,SINGLE,CHO-K1,Day14,14,P,mAb,,FedBatch,,TRUE,NO,D,G13 medium,PolyA,clone1-medium1-day14,985
+PRJNA810994,SRR18163666,Validation,ILLUMINA,SINGLE,CHO-K1,Day11,11,P,mAb,,FedBatch,,TRUE,NO,S,G13 medium,PolyA,clone1-medium1-day11,986
+PRJNA810994,SRR18163667,Validation,ILLUMINA,SINGLE,CHO-K1,Day9,9,P,mAb,,FedBatch,,TRUE,NO,S,G13 medium,PolyA,clone1-medium1-day9,987
+PRJNA810994,SRR18163668,Validation,ILLUMINA,SINGLE,CHO-K1,Day7,7,P,mAb,,FedBatch,,TRUE,NO,E,G13 medium,PolyA,clone1-medium1-day7,988
+PRJNA810994,SRR18163669,Validation,ILLUMINA,SINGLE,CHO-K1,Day4,4,P,mAb,,FedBatch,,TRUE,NO,E,G13 medium,PolyA,clone1-medium1-day4,989
+PRJNA839086,SRR19256295,Validation,ILLUMINA,PAIRED,CHO-S,,,P,mAb,,Batch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,anti-PD1,990
+PRJNA839086,SRR19256296,Validation,ILLUMINA,PAIRED,CHO-S,,,P,mAb,,Batch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,anti-PD1,991
+PRJNA839086,SRR19256297,Validation,ILLUMINA,PAIRED,CHO-S,,,NP,NA,,Batch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,anti-PD1,992
+PRJNA839086,SRR19256304,Validation,ILLUMINA,PAIRED,CHO-S,,,P,mAb,,Batch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,WT,993
+PRJNA839086,SRR19256305,Validation,ILLUMINA,PAIRED,CHO-S,,,NP,NA,,Batch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,WT,994
+PRJNA839086,SRR19256306,Validation,ILLUMINA,PAIRED,CHO-S,,,NP,NA,,Batch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,WT,995
+PRJNA899862,SRR22246869,Validation,ILLUMINA,PAIRED,CHO-K1,Day5,5,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day5 IgG1 producer rep 3,996
+PRJNA899862,SRR22246870,Validation,ILLUMINA,PAIRED,CHO-K1,Day5,5,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day5 IgG1 producer rep 2,997
+PRJNA899862,SRR22246871,Validation,ILLUMINA,PAIRED,CHO-K1,Day5,5,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day5 IgG1 producer rep 1,998
+PRJNA899862,SRR22246872,Validation,ILLUMINA,PAIRED,CHO-K1,Day5,5,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day5 control\, host cell line rep 3",999
+PRJNA899862,SRR22246874,Validation,ILLUMINA,PAIRED,CHO-K1,Day5,5,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day5 control\, host cell line rep 1",1000
+PRJNA899862,SRR22246875,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day3 EPO-Fc producer rep 3,1001
+PRJNA899862,SRR22246876,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day3 EPO-Fc producer rep 2,1002
+PRJNA899862,SRR22246877,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day3 EPO-Fc producer rep 1,1003
+PRJNA899862,SRR22246878,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day3 IgG1 producer rep 3,1004
+PRJNA899862,SRR22246879,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day3 IgG1 producer rep 2,1005
+PRJNA899862,SRR22246880,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day3 IgG1 producer rep 1,1006
+PRJNA899862,SRR22246881,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day3 control\, host cell line rep 3",1007
+PRJNA899862,SRR22246882,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day3 control\, host cell line rep 2",1008
+PRJNA899862,SRR22246883,Validation,ILLUMINA,PAIRED,CHO-K1,Day3,3,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day3 control\, host cell line rep 1",1009
+PRJNA899862,SRR22246884,Validation,ILLUMINA,PAIRED,CHO-K1,Day1,1,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day1 EPO-Fc producer rep 3,1010
+PRJNA899862,SRR22246885,Validation,ILLUMINA,PAIRED,CHO-K1,Day1,1,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day1 EPO-Fc producer rep 2,1011
+PRJNA899862,SRR22246886,Validation,ILLUMINA,PAIRED,CHO-K1,Day1,1,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day1 EPO-Fc producer rep 1,1012
+PRJNA899862,SRR22246887,Validation,ILLUMINA,PAIRED,CHO-K1,Day1,1,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day1 IgG1 producer rep 3,1013
+PRJNA899862,SRR22246888,Validation,ILLUMINA,PAIRED,CHO-K1,Day1,1,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day1 IgG1 producer rep 2,1014
+PRJNA899862,SRR22246889,Validation,ILLUMINA,PAIRED,CHO-K1,Day1,1,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day1 IgG1 producer rep 1,1015
+PRJNA899862,SRR22246890,Validation,ILLUMINA,PAIRED,CHO-K1,Day1,1,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day1 control\, host cell line rep 3",1016
+PRJNA899862,SRR22246891,Validation,ILLUMINA,PAIRED,CHO-K1,Day1,1,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day1 control\, host cell line rep 2",1017
+PRJNA899862,SRR22246892,Validation,ILLUMINA,PAIRED,CHO-K1,Day1,1,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day1 control\, host cell line rep 1",1018
+PRJNA899862,SRR22246893,Validation,ILLUMINA,PAIRED,CHO-K1,Day5,5,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day5 EPO-Fc producer rep 3,1019
+PRJNA899862,SRR22246894,Validation,ILLUMINA,PAIRED,CHO-K1,Day5,5,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day5 EPO-Fc producer rep 2,1020
+PRJNA899862,SRR22246895,Validation,ILLUMINA,PAIRED,CHO-K1,Day5,5,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day5 EPO-Fc producer rep 1,1021
+PRJNA899862,SRR22246896,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day0 EPO-Fc producer rep 3,1022
+PRJNA899862,SRR22246897,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day0 EPO-Fc producer rep 2,1023
+PRJNA899862,SRR22246898,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,P,EPO-Fc,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day0 EPO-Fc producer rep 1,1024
+PRJNA899862,SRR22246899,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day0 IgG1 producer rep 3,1025
+PRJNA899862,SRR22246900,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,P,mAb,,FedBatch,,TRUE,NO,E,ExCELL CD-CHO (SAFC),PolyA,Day0 IgG1 producer rep 2,1026
+PRJNA899862,SRR22246902,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day0 control\, host cell line rep 3",1027
+PRJNA899862,SRR22246903,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day0 control\, host cell line rep 2",1028
+PRJNA899862,SRR22246904,Validation,ILLUMINA,PAIRED,CHO-K1,Day0,0,NP,NA,,FedBatch,NA,NA,NO,E,ExCELL CD-CHO (SAFC),PolyA,"Day0 control\, host cell line rep 1",1029

@@ -1,0 +1,106 @@
+iModulon_number,iModulon,Name,Category,broad_family,Total gene number,EV
+0,iM0,ECM-3,Functional,ECM / extracellular,43,0.215251978
+1,iM1,Translation-1,"Functional, Regulatory, Genomic",Translation,53,2.951361742
+2,iM2,Lysosome-1,"Functional, Regulatory, Conditional",Proteostasis,50,1.634235051
+3,iM3,ncRNA-1,"RNA-biotype, Genomic",RNA-biotype,30,0.56352613
+4,iM4,Unfolded Protein Response,"Functional, Regulatory",Proteostasis,43,0.412319639
+5,iM5,SP5,"Functional, Regulatory",Chromatin / development,47,4.125357879
+6,iM6,Igf2bp2,Conditional,Conditional / context,26,0.146955049
+7,iM7,rRNA-1,"Regulatory, Genomic, RNA-biotype",RNA-biotype,14,0.237552568
+8,iM8,Ephrin Locus,"Functional, Regulatory, Genomic",Genomic localization,37,0.189316674
+9,iM9,Translation-2,"Functional, Regulatory",Translation,40,3.415370069
+10,iM10,UC-1,Uncharacterized,Uncharacterized,31,0.235450132
+11,iM11,Chr2 Locus,Genomic,Genomic localization,47,0.645066117
+12,iM12,Immediate-Early,Functional,Stress / immune,19,0.162508873
+13,iM13,snoRNA-1,RNA-biotype,RNA-biotype,24,1.459098007
+14,iM14,Homeobox Domains,Functional,Chromatin / development,67,1.032522361
+15,iM15,UC-2,Uncharacterized,Uncharacterized,36,0.197253124
+16,iM16,Cell Cycle-1,"Functional, Conditional",Cell cycle,36,3.545509526
+17,iM17,Translation-3,Functional,Translation,56,0.554252468
+18,iM18,Culture-1,Conditional,Conditional / context,39,0.191220067
+19,iM19,UC-3,Uncharacterized,Uncharacterized,25,0.125710285
+20,iM20,Extracellular Region-1,"Functional, Conditional",ECM / extracellular,29,0.997760505
+21,iM21,Alpha-2-Macroglobulin,Functional,ECM / extracellular,33,0.30765187
+22,iM22,Translation-4,Functional,Translation,59,0.120916576
+23,iM23,snoRNA-2,"RNA-biotype, Conditional",RNA-biotype,99,0.051141244
+24,iM24,Cell Adhesion Regulation,Functional,ECM / extracellular,18,0.187584908
+25,iM25,Histone,"Functional, Genomic, Regulatory",Chromatin / development,63,5.513524552
+26,iM26,UC-4,Uncharacterized,Uncharacterized,22,0.447337678
+27,iM27,UC-5,Uncharacterized,Uncharacterized,25,0.21903718
+28,iM28,Inflammatory Cytokine,Functional,Stress / immune,24,0.339717281
+29,iM29,ChrX,Genomic,Genomic localization,36,0.420372241
+30,iM30,UC-6,Uncharacterized,Uncharacterized,22,0.195337483
+31,iM31,MEOX1,Regulatory,Regulatory-associated,34,0.998767559
+32,iM32,snoRNA-3,RNA-biotype,RNA-biotype,39,0.058168733
+33,iM33,Extracellular Region-2,Functional,ECM / extracellular,38,0.09103993
+34,iM34,snoRNA-4,"Functional, RNA-biotype",RNA-biotype,57,0.074554084
+35,iM35,Cell Cycle-2,Functional,Cell cycle,59,0.358466083
+36,iM36,Natriuretic Peptide,Conditional,Conditional / context,13,0.350825544
+37,iM37,Chaperone,"Functional, Conditional",Proteostasis,14,0.572776731
+38,iM38,WH1 Domain,Functional,Other functional,36,0.144786281
+39,iM39,Temperature Downshift,"Functional, Conditional",Stress / immune,28,0.148734894
+40,iM40,ISG-2,"Functional, Regulatory",Stress / immune,27,0.22841254
+41,iM41,Chr8-1,"Genomic, Conditional",Genomic localization,29,0.215185472
+42,iM42,Matrix Metalloprotease,Functional,ECM / extracellular,20,1.133162215
+43,iM43,Lysosome-2,Functional,Proteostasis,32,0.582345849
+44,iM44,Culture-2,"Functional, Conditional",Conditional / context,30,1.082830495
+45,iM45,Chr1,Genomic,Genomic localization,66,0.546200074
+46,iM46,UC-7,Uncharacterized,Uncharacterized,2,0.082126349
+47,iM47,Nuclear Compartment,Functional,Other functional,37,1.875227247
+48,iM48,UC-8,Uncharacterized,Uncharacterized,64,0.159305549
+49,iM49,ASNS,Conditional,Conditional / context,28,0.069539164
+50,iM50,ncRNA-2,RNA-biotype,RNA-biotype,15,0.113617051
+51,iM51,snoRNA-5,"RNA-biotype, Conditional",RNA-biotype,24,0.055261591
+52,iM52,ECM-1,"Functional, Conditional",ECM / extracellular,38,10.94848179
+53,iM53,Media-1,Conditional,Conditional / context,12,0.550210355
+54,iM54,ATF4,"Functional, Regulatory",Metabolism / redox,63,0.606146133
+55,iM55,snoRNA-6,"Functional, RNA-biotype",RNA-biotype,55,0.991984948
+56,iM56,UC-9,Uncharacterized,Uncharacterized,44,0.113706863
+57,iM57,Oxidative Stress,Functional,Stress / immune,57,0.246347307
+58,iM58,Coagulation,Functional,ECM / extracellular,47,0.14942621
+59,iM59,snoRNA-7,"RNA-biotype, Conditional",RNA-biotype,20,0.053064151
+60,iM60,Culture-3,Conditional,Conditional / context,30,1.546338867
+61,iM61,UC-10,Uncharacterized,Uncharacterized,14,0.130666638
+62,iM62,Mechanical Stimulus Response,Functional,Stress / immune,28,0.187360625
+63,iM63,snoRNA-8,RNA-biotype,RNA-biotype,32,0.1571297
+64,iM64,Translation-5,"Functional, Regulatory",Translation,97,0.27550684
+65,iM65,ECM-2,"Functional, Conditional",ECM / extracellular,79,1.348243162
+66,iM66,UC-11,Uncharacterized,Uncharacterized,28,0.494768853
+67,iM67,Chemokine Signaling,Functional,Stress / immune,49,0.153645462
+68,iM68,Homeobox-1,"Functional, Genomic",Chromatin / development,75,0.375201412
+69,iM69,Homeobox-2,"Functional, Conditional",Chromatin / development,28,0.345381471
+70,iM70,ECM-4,Functional,ECM / extracellular,18,0.149058808
+71,iM71,Chr5,"Conditional, Genomic",Genomic localization,26,0.103418788
+72,iM72,UC-12,Uncharacterized,Uncharacterized,154,0.281021783
+73,iM73,Antimicrobial Response,Functional,Stress / immune,31,0.566591076
+74,iM74,Hypoxia,"Functional, Regulatory",Stress / immune,49,0.331802018
+75,iM75,UC-13,Uncharacterized,Uncharacterized,26,0.897002883
+76,iM76,Chr8-2,Genomic,Genomic localization,43,0.197381981
+77,iM77,Collagen,"Functional, Genomic",ECM / extracellular,42,0.178006878
+78,iM78,FABP4,Conditional,Conditional / context,11,0.294190231
+79,iM79,ERV-1,"Functional, Regulatory",Regulatory-associated,36,0.237488227
+80,iM80,Thrombospondin Repeats,Functional,ECM / extracellular,34,1.150214716
+81,iM81,Extracellular Region-3,"Functional, Conditional",ECM / extracellular,46,0.408707579
+82,iM82,Translation-6,Functional,Translation,57,0.819921848
+83,iM83,ECM-5,Functional,ECM / extracellular,47,0.323256633
+84,iM84,Cholesterol Biosynthesis,Functional,Metabolism / redox,39,0.585717326
+85,iM85,UC-14,Uncharacterized,Uncharacterized,28,0.31095574
+86,iM86,snRNA-1,"RNA-biotype, Regulatory",RNA-biotype,31,3.729544563
+87,iM87,ISG-1,"Functional, Regulatory, Conditional",Stress / immune,55,0.913654067
+88,iM88,tRNA-1,"Regulatory, Genomic, RNA-biotype",RNA-biotype,73,0.621760617
+89,iM89,Cytokine Signaling,"Functional, Conditional",Stress / immune,28,0.277507852
+90,iM90,IER Proteins,"Functional, Regulatory, Genomic",Stress / immune,51,2.695881112
+91,iM91,RNA Metabolism,Functional,Other functional,19,1.694376592
+92,iM92,Collagen Binding,"Functional, Conditional",ECM / extracellular,15,2.941395701
+93,iM93,Golgi,Functional,Proteostasis,13,1.022054459
+94,iM94,UC-15,Uncharacterized,Uncharacterized,38,0.362846932
+95,iM95,Integrin Binding,Functional,ECM / extracellular,19,1.35063509
+96,iM96,UC-16,Uncharacterized,Uncharacterized,13,0.840385371
+97,iM97,BMP Signaling Regulation,Functional,Chromatin / development,28,0.289748364
+98,iM98,Immune and MAPK Regulation,Functional,Stress / immune,63,0.524740656
+99,iM99,HOXA,Functional,Chromatin / development,40,0.121772691
+100,iM100,Process Regulation,"Functional, Conditional",Conditional / context,29,0.265355354
+101,iM101,Integrin Adhesion,Functional,ECM / extracellular,48,1.236028715
+102,iM102,snoRNA-9,RNA-biotype,RNA-biotype,22,0.060753636
+103,iM103,snoRNA-10,RNA-biotype,RNA-biotype,44,0.157558006
+104,iM104,snoRNA-11,"Functional, RNA-biotype",RNA-biotype,23,0.06920173

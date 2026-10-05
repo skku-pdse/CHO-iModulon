@@ -1,0 +1,779 @@
+Project,SampleID,Instrument,Layout,Cell line,Time point,Time point (day),Producer,Product,Engineered,Culture,Productivity,Stability,Temperature shift,Phase,Media,Library,Source,Condition
+2014_11_CHOS_baseline,P1796_101,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 72h
+2014_11_CHOS_baseline,P1796_102,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 72h
+2014_11_CHOS_baseline,P1796_103,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 72h
+2014_11_CHOS_baseline,P1796_104,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 72h
+2014_11_CHOS_baseline,P1796_105,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 84h
+2014_11_CHOS_baseline,P1796_106,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 84h
+2014_11_CHOS_baseline,P1796_107,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 84h
+2014_11_CHOS_baseline,P1796_108,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 84h
+2014_11_CHOS_baseline,P1796_109,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 96h
+2014_11_CHOS_baseline,P1796_110,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 96h
+2014_11_CHOS_baseline,P1796_111,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 96h
+2014_11_CHOS_baseline,P1796_112,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 96h
+2014_11_CHOS_baseline,P1796_113,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 108h
+2014_11_CHOS_baseline,P1796_114,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 108h
+2014_11_CHOS_baseline,P1796_115,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 108h
+2014_11_CHOS_baseline,P1796_116,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 108h
+2014_11_CHOS_baseline,P1796_117,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 120h
+2014_11_CHOS_baseline,P1796_118,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 120h
+2014_11_CHOS_baseline,P1796_119,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 120h
+2014_11_CHOS_baseline,P1796_120,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),polyA,in house,Control - 120h
+2014_11_CHOS_baseline,P1796_121,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 132h
+2014_11_CHOS_baseline,P1796_122,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 132h
+2014_11_CHOS_baseline,P1796_323,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 132h
+2014_11_CHOS_baseline,P1796_124,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 132h
+2014_11_CHOS_baseline,P1796_125,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 144h
+2014_11_CHOS_baseline,P1796_126,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 144h
+2014_11_CHOS_baseline,P1796_127,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 144h
+2014_11_CHOS_baseline,P1796_128,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 144h
+2014_11_CHOS_baseline,P1796_129,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 156h
+2014_11_CHOS_baseline,P1796_130,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 156h
+2014_11_CHOS_baseline,P1796_131,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 156h
+2014_11_CHOS_baseline,P1796_132,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 156h
+2014_11_CHOS_baseline,P1796_133,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 168h
+2014_11_CHOS_baseline,P1796_134,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 168h
+2014_11_CHOS_baseline,P1796_135,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 168h
+2014_11_CHOS_baseline,P1796_136,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),polyA,in house,Control - 168h
+2014_11_CHOS_baseline,P1796_137,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 180h
+2014_11_CHOS_baseline,P1796_138,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 180h
+2014_11_CHOS_baseline,P1796_139,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 180h
+2014_11_CHOS_baseline,P1796_140,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 180h
+2014_11_CHOS_baseline,P1796_141,Illumina HiSeq 2500,PAIRED,CHO-S,192h,8.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 192h
+2014_11_CHOS_baseline,P1796_142,Illumina HiSeq 2500,PAIRED,CHO-S,192h,8.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 192h
+2014_11_CHOS_baseline,P1796_143,Illumina HiSeq 2500,PAIRED,CHO-S,192h,8.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 192h
+2014_11_CHOS_baseline,P1796_144,Illumina HiSeq 2500,PAIRED,CHO-S,192h,8.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 192h
+2014_11_CHOS_baseline,P1796_145,Illumina HiSeq 2500,PAIRED,CHO-S,204h,8.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 204h
+2014_11_CHOS_baseline,P1796_146,Illumina HiSeq 2500,PAIRED,CHO-S,204h,8.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 204h
+2014_11_CHOS_baseline,P1796_147,Illumina HiSeq 2500,PAIRED,CHO-S,204h,8.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 204h
+2014_11_CHOS_baseline,P1796_148,Illumina HiSeq 2500,PAIRED,CHO-S,204h,8.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 204h
+2014_11_CHOS_baseline,P1796_149,Illumina HiSeq 2500,PAIRED,CHO-S,216h,9.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 216h
+2014_11_CHOS_baseline,P1796_150,Illumina HiSeq 2500,PAIRED,CHO-S,216h,9.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 216h
+2014_11_CHOS_baseline,P1796_151,Illumina HiSeq 2500,PAIRED,CHO-S,216h,9.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 216h
+2014_11_CHOS_baseline,P1796_152,Illumina HiSeq 2500,PAIRED,CHO-S,216h,9.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 216h
+2014_11_CHOS_baseline,P1796_153,Illumina HiSeq 2500,PAIRED,CHO-S,228h,9.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 228h
+2014_11_CHOS_baseline,P1796_154,Illumina HiSeq 2500,PAIRED,CHO-S,228h,9.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 228h
+2014_11_CHOS_baseline,P1796_155,Illumina HiSeq 2500,PAIRED,CHO-S,228h,9.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 228h
+2014_11_CHOS_baseline,P1796_156,Illumina HiSeq 2500,PAIRED,CHO-S,228h,9.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 228h
+2014_11_CHOS_baseline,P1796_157,Illumina HiSeq 2500,PAIRED,CHO-S,240h,10.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 240h
+2014_11_CHOS_baseline,P1796_158,Illumina HiSeq 2500,PAIRED,CHO-S,240h,10.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 240h
+2014_11_CHOS_baseline,P1796_159,Illumina HiSeq 2500,PAIRED,CHO-S,240h,10.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 240h
+2014_11_CHOS_baseline,P1796_160,Illumina HiSeq 2500,PAIRED,CHO-S,240h,10.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 240h
+2014_11_CHOS_baseline,P1796_161,Illumina HiSeq 2500,PAIRED,CHO-S,248h,10.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 248h
+2014_11_CHOS_baseline,P1796_162,Illumina HiSeq 2500,PAIRED,CHO-S,248h,10.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 248h
+2014_11_CHOS_baseline,P1796_163,Illumina HiSeq 2500,PAIRED,CHO-S,248h,10.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 248h
+2014_11_CHOS_baseline,P1796_164,Illumina HiSeq 2500,PAIRED,CHO-S,248h,10.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 248h
+2014_11_CHOS_baseline,P1796_165,Illumina HiSeq 2500,PAIRED,CHO-S,264h,11.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 264h
+2014_11_CHOS_baseline,P1796_166,Illumina HiSeq 2500,PAIRED,CHO-S,264h,11.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 264h
+2014_11_CHOS_baseline,P1796_167,Illumina HiSeq 2500,PAIRED,CHO-S,264h,11.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 264h
+2014_11_CHOS_baseline,P1796_168,Illumina HiSeq 2500,PAIRED,CHO-S,264h,11.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 264h
+2014_11_CHOS_baseline,P1796_169,Illumina HiSeq 2500,PAIRED,CHO-S,272h,11.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 272h
+2014_11_CHOS_baseline,P1796_170,Illumina HiSeq 2500,PAIRED,CHO-S,272h,11.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 272h
+2014_11_CHOS_baseline,P1796_171,Illumina HiSeq 2500,PAIRED,CHO-S,272h,11.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 272h
+2014_11_CHOS_baseline,P1796_172,Illumina HiSeq 2500,PAIRED,CHO-S,272h,11.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 272h
+2014_11_CHOS_baseline,P1796_173,Illumina HiSeq 2500,PAIRED,CHO-S,288h,12.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 288h
+2014_11_CHOS_baseline,P1796_174,Illumina HiSeq 2500,PAIRED,CHO-S,288h,12.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 288h
+2014_11_CHOS_baseline,P1796_175,Illumina HiSeq 2500,PAIRED,CHO-S,288h,12.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 288h
+2014_11_CHOS_baseline,P1796_176,Illumina HiSeq 2500,PAIRED,CHO-S,288h,12.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 288h
+2014_11_CHOS_baseline,P1796_177,Illumina HiSeq 2500,PAIRED,CHO-S,296h,12.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 296h
+2014_11_CHOS_baseline,P1796_178,Illumina HiSeq 2500,PAIRED,CHO-S,296h,12.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 296h
+2014_11_CHOS_baseline,P1796_179,Illumina HiSeq 2500,PAIRED,CHO-S,296h,12.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 296h
+2014_11_CHOS_baseline,P1796_180,Illumina HiSeq 2500,PAIRED,CHO-S,296h,12.333333333333334,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 296h
+2014_11_CHOS_baseline,P1796_181,Illumina HiSeq 2500,PAIRED,CHO-S,312h,13.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 312h
+2014_11_CHOS_baseline,P1796_182,Illumina HiSeq 2500,PAIRED,CHO-S,312h,13.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 312h
+2014_11_CHOS_baseline,P1796_183,Illumina HiSeq 2500,PAIRED,CHO-S,312h,13.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 312h
+2014_11_CHOS_baseline,P1796_184,Illumina HiSeq 2500,PAIRED,CHO-S,312h,13.0,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),polyA,in house,Control - 312h
+2014_11_CHOS_baseline,P1796_185,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,NO,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,WT
+2014_11_CHOS_baseline,P1796_186,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT2-1A2
+2014_11_CHOS_baseline,P1796_187,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT2-3B3
+2014_11_CHOS_baseline,P1796_188,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT2-3C7
+2014_11_CHOS_baseline,P1796_189,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT2-4H5
+2014_11_CHOS_baseline,P1796_190,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT7-1D4
+2014_11_CHOS_baseline,P1796_191,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT7-1E4
+2014_11_CHOS_baseline,P1796_192,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT7-1H7
+2014_11_CHOS_baseline,P1796_193,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT10-1E8
+2014_11_CHOS_baseline,P1796_194,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT10-1F2
+2014_11_CHOS_baseline,P1796_195,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT10-1F11
+2014_11_CHOS_baseline,P1796_196,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT11-1C8
+2014_11_CHOS_baseline,P1796_201,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT11-2H5
+2014_11_CHOS_baseline,P1796_202,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT11-2H7
+2014_11_CHOS_baseline,P1796_203,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT7/10DKO-1B1
+2014_11_CHOS_baseline,P1796_204,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT7/10DKO-1H6
+2014_11_CHOS_baseline,P1796_205,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT7/10DKO-1E1
+2014_11_CHOS_baseline,P1796_206,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-GALNT7/10DKO-1H10
+2014_11_CHOS_baseline,P1796_207,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,+GALNT3-1H5
+2014_11_CHOS_baseline,P1796_208,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,+GALNT3-1H8
+2014_11_CHOS_baseline,P1796_209,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,+GALNT3-2B3
+2014_11_CHOS_baseline,P1796_210,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,-Cosmc-4B7
+2015_12_FDA_virus,EMCV1Vifn_S10,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV1Vifn
+2015_12_FDA_virus,EMCV1Vm_S8,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV1Vm
+2015_12_FDA_virus,EMCV1Vpoly_S9,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV1Vpoly
+2015_12_FDA_virus,EMCV1ifn_S7,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV1ifn
+2015_12_FDA_virus,EMCV1m_S5,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV1m
+2015_12_FDA_virus,EMCV1poly_S6,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV1poly
+2015_12_FDA_virus,EMCV2Vifn_S17,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV2Vifn
+2015_12_FDA_virus,EMCV2Vm_S15,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV2Vm
+2015_12_FDA_virus,EMCV2Vpoly_S16,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV2Vpoly
+2015_12_FDA_virus,EMCV2ifn_S14,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV2ifn
+2015_12_FDA_virus,EMCV2m_S11,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV2m
+2015_12_FDA_virus,EMCV2poly_S13,NextSeq 500 sequencing,PAIRED,CHO-K1,Day3,3.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,EMCV2poly
+2015_12_FDA_virus,MVM1IFN_S33,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM1IFN
+2015_12_FDA_virus,MVM1VIFN_S37,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM1VIFN
+2015_12_FDA_virus,MVM1Vmedia_S35,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM1Vmedia
+2015_12_FDA_virus,MVM1VpolyIC_S36,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM1VpolyIC
+2015_12_FDA_virus,MVM1media_S31,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM1media
+2015_12_FDA_virus,MVM1polyIC_S32,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM1polyIC
+2015_12_FDA_virus,MVM2IFN_S40,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM2IFN
+2015_12_FDA_virus,MVM2VIFN_S43,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM2VIFN
+2015_12_FDA_virus,MVM2Vmedia_S41,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM2Vmedia
+2015_12_FDA_virus,MVM2VpolyIC_S42,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM2VpolyIC
+2015_12_FDA_virus,MVM2media_S38,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM2media
+2015_12_FDA_virus,MVM2polyIC_S39,NextSeq 500 sequencing,PAIRED,CHO-K1,Day5,5.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,in house,MVM2polyIC
+2015_12_FDA_virus,Reo1Vifn_S24,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo1Vifn
+2015_12_FDA_virus,Reo1Vpoly_S22,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo1Vpoly
+2015_12_FDA_virus,Reo1ifn_S20,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo1ifn
+2015_12_FDA_virus,Reo1m_S18,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo1m
+2015_12_FDA_virus,Reo1poly_S19,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo1poly
+2015_12_FDA_virus,Reo3Vifn_S30,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo3Vifn
+2015_12_FDA_virus,Reo3Vpoly_S29,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo3Vpoly
+2015_12_FDA_virus,Reo3ifn_S27,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo3ifn
+2015_12_FDA_virus,Reo3m_S25,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo3m
+2015_12_FDA_virus,Reo3poly_S26,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,Reo3poly
+2015_12_FDA_virus,VSV1Vifn_S45,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV1Vifn
+2015_12_FDA_virus,VSV1Vm_S34,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV1Vm
+2015_12_FDA_virus,VSV1Vpoly_S44,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV1Vpoly
+2015_12_FDA_virus,VSV1ifn_S23,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV1ifn
+2015_12_FDA_virus,VSV1m_S1,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV1m
+2015_12_FDA_virus,VSV1poly_S12,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV1poly
+2015_12_FDA_virus,VSV2Vifn_S4,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV2Vifn
+2015_12_FDA_virus,VSV2Vm_S2,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV2Vm
+2015_12_FDA_virus,VSV2Vpoly_S3,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV2Vpoly
+2015_12_FDA_virus,VSV2ifn_S48,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV2ifn
+2015_12_FDA_virus,VSV2m_S46,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV2m
+2015_12_FDA_virus,VSV2poly_S47,NextSeq 500 sequencing,PAIRED,CHO-K1,Day2,2.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,VSV2poly
+2015_12_FDA_virus,reo1Vm_S21,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,reo1Vm
+2015_12_FDA_virus,reo3Vm_S28,NextSeq 500 sequencing,PAIRED,CHO-K1,Day4,4.0,NP,,NO,Plate,,,NO,E,Commercial (RPMI-1040),polyA,https://www.nature.com/articles/s41598-019-45126-x,reo3Vm
+2016_03_CHOS_bioreactor,Bio101-P2_S1,,PAIRED,CHO-S,Day2,2.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio101-P4_S5,,PAIRED,CHO-S,Day4,4.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio101-P5_S9,,PAIRED,CHO-S,Day5,5.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio101-P7_S13,,PAIRED,CHO-S,Day7,7.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio101-P10_S17,,PAIRED,CHO-S,Day10,10.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio102-P2_S21,,PAIRED,CHO-S,Day2,2.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio102-P5_S24,,PAIRED,CHO-S,Day5,5.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio102-P7_S27,,PAIRED,CHO-S,Day7,7.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio102-P10_S2,,PAIRED,CHO-S,Day10,10.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio109-P2_S6,,PAIRED,CHO-S,Day2,2.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio109-P4_S10,,PAIRED,CHO-S,Day4,4.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio109-P6_S14,,PAIRED,CHO-S,Day6,6.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio109-P8_S18,,PAIRED,CHO-S,Day8,8.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio109-P12_S22,,PAIRED,CHO-S,Day12,12.0,NP,,NO,,,,NO,D,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio110-P2_S25,,PAIRED,CHO-S,Day2,2.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio110-P4_S28,,PAIRED,CHO-S,Day4,4.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio110-P6_S3,,PAIRED,CHO-S,Day6,6.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio110-P8_S7,,PAIRED,CHO-S,Day8,8.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio110-P12_S11,,PAIRED,CHO-S,Day12,12.0,NP,,NO,,,,NO,D,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio117-P2_S15,,PAIRED,CHO-S,Day2,2.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio117-P4_S19,,PAIRED,CHO-S,Day4,4.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio117-P6_S23,,PAIRED,CHO-S,Day6,6.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio117-P8_S26,,PAIRED,CHO-S,Day8,8.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio117-P12_S29,,PAIRED,CHO-S,Day12,12.0,NP,,NO,,,,NO,D,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio118-P2_S4,,PAIRED,CHO-S,Day2,2.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio118-P4_S8,,PAIRED,CHO-S,Day4,4.0,NP,,NO,,,,NO,E,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio118-P6_S12,,PAIRED,CHO-S,Day6,6.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio118-P8_S16,,PAIRED,CHO-S,Day8,8.0,NP,,NO,,,,NO,S,,rRNA,in house,
+2016_03_CHOS_bioreactor,Bio118-P12_S20,,PAIRED,CHO-S,Day12,12.0,NP,,NO,,,,NO,D,,rRNA,in house,
+2016_05_HH_L,Bio141P2_S1,,PAIRED,CHO-S,Day2,2.0,NP,,NO,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio141P4_S2,,PAIRED,CHO-S,Day4,4.0,NP,,NO,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio141P6_S3,,PAIRED,CHO-S,Day6,6.0,NP,,NO,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio141P8_S4,,PAIRED,CHO-S,Day8,8.0,NP,,NO,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio141P12_S5,,PAIRED,CHO-S,Day12,12.0,NP,,NO,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio141P14_S6,,PAIRED,CHO-S,Day14,14.0,NP,,NO,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio142P2_S7,,PAIRED,CHO-S,Day2,2.0,NP,,NO,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio142P4_S8,,PAIRED,CHO-S,Day4,4.0,NP,,NO,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio142P6_S9,,PAIRED,CHO-S,Day6,6.0,NP,,NO,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio142P8_S10,,PAIRED,CHO-S,Day8,8.0,NP,,NO,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio142P12_S11,,PAIRED,CHO-S,Day12,12.0,NP,,NO,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio142P14_S12,,PAIRED,CHO-S,Day14,14.0,NP,,NO,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio143P2_S13,,PAIRED,CHO-S,Day2,2.0,NP,,NO,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio143P4_S14,,PAIRED,CHO-S,Day4,4.0,NP,,NO,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio143P6_S15,,PAIRED,CHO-S,Day6,6.0,NP,,NO,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio143P8_S16,,PAIRED,CHO-S,Day8,8.0,NP,,NO,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio143P14_S17,,PAIRED,CHO-S,Day14,14.0,NP,,NO,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio144P4_S18,,PAIRED,CHO-ZeLa,Day4,4.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio144P6_S19,,PAIRED,CHO-ZeLa,Day6,6.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio144P8_S20,,PAIRED,CHO-ZeLa,Day8,8.0,NP,,YES,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio144P14_S21,,PAIRED,CHO-ZeLa,Day14,14.0,NP,,YES,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio145P2_S22,,PAIRED,CHO-ZeLa,Day2,2.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio145P4_S23,,PAIRED,CHO-ZeLa,Day4,4.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio145P8_S24,,PAIRED,CHO-ZeLa,Day8,8.0,NP,,YES,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio145P12_S25,,PAIRED,CHO-ZeLa,Day12,12.0,NP,,YES,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio145P14_S26,,PAIRED,CHO-ZeLa,Day14,14.0,NP,,YES,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio146P2_S27,,PAIRED,CHO-ZeLa,Day2,2.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio146P4_S28,,PAIRED,CHO-ZeLa,Day4,4.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio146P6_S29,,PAIRED,CHO-ZeLa,Day6,6.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio146P8_S30,,PAIRED,CHO-ZeLa,Day8,8.0,NP,,YES,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio146P12_S31,,PAIRED,CHO-ZeLa,Day12,12.0,NP,,YES,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio146P14_S32,,PAIRED,CHO-ZeLa,Day14,14.0,NP,,YES,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio147P2_S33,,PAIRED,CHO-ZeLa,Day2,2.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio147P4_S34,,PAIRED,CHO-ZeLa,Day4,4.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio147P6_S35,,PAIRED,CHO-ZeLa,Day6,6.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio147P8_S36,,PAIRED,CHO-ZeLa,Day8,8.0,NP,,YES,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio147P14_S37,,PAIRED,CHO-ZeLa,Day14,14.0,NP,,YES,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio148P2_S38,,PAIRED,CHO-ZeLa,Day2,2.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio148P4_S39,,PAIRED,CHO-ZeLa,Day4,4.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio148P6_S40,,PAIRED,CHO-ZeLa,Day6,6.0,NP,,YES,,,,NO,E,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio148P8_S41,,PAIRED,CHO-ZeLa,Day8,8.0,NP,,YES,,,,NO,S,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio148P12_S42,,PAIRED,CHO-ZeLa,Day12,12.0,NP,,YES,,,,NO,D,CD CHO (8mM GLN),,in house,
+2016_05_HH_L,Bio148P14_S43,,PAIRED,CHO-ZeLa,Day14,14.0,NP,,YES,,,,NO,D,CD CHO (8mM GLN),,in house,
+2017_04_09_4X_Lact_mutants,1-C5_S8,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,1-D6_S7,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,2-D5_S6,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,2-G1_S5,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,3-C4_S4,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,3-D8_S3,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,3-G12_S2,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,3-H9_S1,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,4-B6_S13,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,4-B7_S12,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,4-C12_S10,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,4-C9_S11,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,4-H9_S9,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_04_09_4X_Lact_mutants,WT_S14,,PAIRED,,,,NP,,,,,,NO,,,,in house,
+2017_08_09_Lact_prod,Bio229P5_S1,,PAIRED,,Day5,5.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio229P7_S9,,PAIRED,,Day7,7.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio229P8_S17,,PAIRED,,Day8,8.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio229P12_S23,,PAIRED,,Day12,12.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio229P14_S30,,PAIRED,,Day14,14.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio230P5_S2,,PAIRED,,Day5,5.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio230P7_S10,,PAIRED,,Day7,7.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio231P5_S3,,PAIRED,,Day5,5.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio231P7_S11,,PAIRED,,Day7,7.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio231P8_S19,,PAIRED,,Day8,8.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio231P12_S25,,PAIRED,,Day12,12.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio231P14_S32,,PAIRED,,Day14,14.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio232P5_S4,,PAIRED,,Day5,5.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio232P7_S12,,PAIRED,,Day7,7.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio232P8_S20,,PAIRED,,Day8,8.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio232P12_S26,,PAIRED,,Day12,12.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio232P14_S33,,PAIRED,,Day14,14.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio233P5_S5,,PAIRED,,Day5,5.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio233P7_S13,,PAIRED,,Day7,7.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio233P8_S21,,PAIRED,,Day8,8.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio233P12_S27,,PAIRED,,Day12,12.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio233P14_S34,,PAIRED,,Day14,14.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio234P5_S6,,PAIRED,,Day5,5.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio234P7_S14,,PAIRED,,Day7,7.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio234P12_S28,,PAIRED,,Day12,12.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio234P14_S35,,PAIRED,,Day14,14.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio235P5_S7,,PAIRED,,Day5,5.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio235P7_S15,,PAIRED,,Day7,7.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio236P5_S8,,PAIRED,,Day5,5.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio236P7_S16,,PAIRED,,Day7,7.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio236P12_S29,,PAIRED,,Day12,12.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio236P14_S36,,PAIRED,,Day14,14.0,NP,,,,,,NO,,,polyA,in house,
+2017_08_09_Lact_prod,Bio238P8_S18,,PAIRED,,Day8,8.0,NP,,,,,,NO,,,polyA,in house,
+2017_10_ZeLa_C13,CHOS68-1_S5,,PAIRED,CHO-S,Day3,3.0,NP,,,,,,NO,,,,in house,
+2017_10_ZeLa_C13,CHOS68-2_S6,,PAIRED,CHO-S,Day3,3.0,NP,,,,,,NO,,,,in house,
+2017_10_ZeLa_C13,CHOS68-3_S7,,PAIRED,CHO-S,Day3,3.0,NP,,,,,,NO,,,,in house,
+2017_10_ZeLa_C13,CHOS71-1_S2,,PAIRED,CHO-S,Day3,3.0,NP,,,,,,NO,,,,in house,
+2017_10_ZeLa_C13,CHOS71-2_S3,,PAIRED,CHO-S,Day3,3.0,NP,,,,,,NO,,,,in house,
+2017_10_ZeLa_C13,CHOS71-3_S4,,PAIRED,CHO-S,Day3,3.0,NP,,,,,,NO,,,,in house,
+2017_10_ZeLa_C13,CHOZL71-1_S8,,PAIRED,CHO-ZeLa,Day3,3.0,NP,,,,,,NO,,,,in house,
+2017_10_ZeLa_C13,CHOZL71-2_S9,,PAIRED,CHO-ZeLa,Day3,3.0,NP,,,,,,NO,,,,in house,
+2017_10_ZeLa_C13,CHOZL71-3_S10,,PAIRED,CHO-ZeLa,Day3,3.0,NP,,,,,,NO,,,,in house,
+2019_02_GFI1_TRIM24_noVirus,1-1_S1,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,NO,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,WT
+2019_02_GFI1_TRIM24_noVirus,1-2_S2,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,NO,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,WT
+2019_02_GFI1_TRIM24_noVirus,1-3_S3,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,NO,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,WT
+2019_02_GFI1_TRIM24_noVirus,2-1_S4,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Ext2
+2019_02_GFI1_TRIM24_noVirus,2-2_S5,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Ext2
+2019_02_GFI1_TRIM24_noVirus,2-3_S8,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Ext2
+2019_02_GFI1_TRIM24_noVirus,3-1_S9,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Xylt1 + Xylt2
+2019_02_GFI1_TRIM24_noVirus,3-2_S10,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Xylt1 + Xylt2
+2019_02_GFI1_TRIM24_noVirus,3-3_S11,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Xylt1 + Xylt2
+2019_02_GFI1_TRIM24_noVirus,4-1_S6,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1 Trim24
+2019_02_GFI1_TRIM24_noVirus,4-2_S12,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1 Trim24
+2019_02_GFI1_TRIM24_noVirus,4-3_S7,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1 Trim24
+2019_02_GFI1_TRIM24_noVirus,5-1_S13,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Trim24
+2019_02_GFI1_TRIM24_noVirus,5-2_S14,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Trim24
+2019_02_GFI1_TRIM24_noVirus,5-3_S15,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Trim24
+2019_02_GFI1_TRIM24_noVirus,6-1_S16,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1 Trim24
+2019_02_GFI1_TRIM24_noVirus,6-2_S17,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1 Trim24
+2019_02_GFI1_TRIM24_noVirus,6-3_S18,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1 Trim24
+2019_02_GFI1_TRIM24_noVirus,7-1_S19,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1 Trim24 
+2019_02_GFI1_TRIM24_noVirus,7-2_S20,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1 Trim24 
+2019_02_GFI1_TRIM24_noVirus,7-3_S21,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1 Trim24 
+2019_02_GFI1_TRIM24_noVirus,8-1_S22,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1
+2019_02_GFI1_TRIM24_noVirus,8-2_S23,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1
+2019_02_GFI1_TRIM24_noVirus,8-3_S24,NextSeq 500 sequencing,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,,CD CHO (8mM GLN),polyA,in house,Gfi1
+2019_12_BD_pilot_A1AT,1-48hrs_S2,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,1-72hrs_S11,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,1-96hrs_S20,,PAIRED,CHO-S,96h,4.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,2-48hrs_S3,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,2-72hrs_S12,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,2-96hrs_S21,,PAIRED,CHO-S,96h,4.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,3-48hrs_S4,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,3-72hrs_S13,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,3-96hrs_S22,,PAIRED,CHO-S,96h,4.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,4-48hrs_S5,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,4-72hrs_S14,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,4-96hrs_S23,,PAIRED,CHO-S,96h,4.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,5-48hrs_S6,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,5-72hrs_S15,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,6-48hrs_S7,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,6-72hrs_S16,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,6-96hrs_S24,,PAIRED,CHO-S,96h,4.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,7-48hrs_S8,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,7-72hrs_S17,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,7-96hrs_S25,,PAIRED,CHO-S,96h,4.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,8-48hrs_S9,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,8-72hrs_S18,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,8-96hrs_S26,,PAIRED,CHO-S,96h,4.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,9-48hrs_S10,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,9-72hrs_S19,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,9-96hrs_S27,,PAIRED,CHO-S,96h,4.0,NP,,,,,,NO,E,,,in house,
+2019_12_BD_pilot_A1AT,CHO-Swt_S1,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-1-C9-1_S7,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-1-C9-2_S8,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-1-C9-3_S9,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-1-C9-1_S25,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-1-C9-2_S26,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-1-C9-3_S27,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-2-B3-1_S10,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-2-B3-2_S11,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-2-B3-3_S12,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-2-B3-1_S28,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-2-B3-2_S29,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-2-B3-3_S30,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-2-C4-1_S13,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-2-C4-2_S14,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-2-C4-3_S15,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-2-C4-2_S32,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-2-C4-3_S33,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-2-H9-1_S16,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-2-H9-2_S17,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-2-H9-3_S18,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-2-H9-1_S34,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-2-H9-2_S35,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-2-H9-3_S36,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-Pool-B-1_S4,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-Pool-B-2_S5,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-Pool-B-3_S6,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-Pool-B-1_S22,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-Pool-B-2_S23,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-Pool-B-3_S24,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-WT-B-1_S1,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-WT-B-2_S2,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-48-WT-B-3_S3,,PAIRED,CHO-S,48h,2.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-WT-B-1_S19,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-WT-B-2_S20,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2019_BD_Pilot_Set2_48h_72h,R-72-WT-B-3_S21,,PAIRED,CHO-S,72h,3.0,NP,,,,,,NO,E,,,in house,
+2020_02_12_ZeN,2Aplus_S7,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_02_12_ZeN,2Bplus_S8,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_02_12_ZeN,2Cplus_S9,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_02_12_ZeN,6Aplus_S10,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_02_12_ZeN,6Bplus_S11,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_02_12_ZeN,6Cplus_S12,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_02_12_ZeN,D2-Z-1_S1,,PAIRED,CHO-K1,,,NP,,NO,,,,NO,,,,in house,
+2020_02_12_ZeN,D2-Z-2_S2,,PAIRED,CHO-K1,,,NP,,NO,,,,NO,,,,in house,
+2020_02_12_ZeN,D2-Z-3_S3,,PAIRED,CHO-K1,,,NP,,NO,,,,NO,,,,in house,
+2020_02_12_ZeN,D2-Z-ZeLa-1_S4,,PAIRED,CHO-K1,,,NP,,YES,,,,NO,,,,in house,
+2020_02_12_ZeN,D2-Z-ZeLa-2_S5,,PAIRED,CHO-K1,,,NP,,YES,,,,NO,,,,in house,
+2020_02_12_ZeN,D2-Z-ZeLa-3_S6,,PAIRED,CHO-K1,,,NP,,YES,,,,NO,,,,in house,
+2020_02_12_ZeN,D3-Z-1_S13,,PAIRED,CHO-K1,,,NP,,NO,,,,NO,,,,in house,
+2020_02_12_ZeN,D3-Z-2_S14,,PAIRED,CHO-K1,,,NP,,NO,,,,NO,,,,in house,
+2020_02_12_ZeN,D3-Z-3_S15,,PAIRED,CHO-K1,,,NP,,NO,,,,NO,,,,in house,
+2020_02_12_ZeN,D3-Z-ZeLa-1_S16,,PAIRED,CHO-K1,,,NP,,YES,,,,NO,,,,in house,
+2020_02_12_ZeN,D3-Z-ZeLa-2_S17,,PAIRED,CHO-K1,,,NP,,YES,,,,NO,,,,in house,
+2020_03_18_CBD3_CBD6,CC005_S13,,PAIRED,CHO-S,,,P,SerpinA,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC006_S25,,PAIRED,CHO-S,,,P,BCHE,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC007_S37,,PAIRED,CHO-S,,,P,pZ,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC011_S2,,PAIRED,CHO-S,,,P,EPO,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC012_S14,,PAIRED,CHO-S,,,P,Herceptin,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC013_S26,,PAIRED,CHO-S,,,P,Enbrel,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC014_S38,,PAIRED,CHO-S,,,P,Rituximab,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC017_S74,,PAIRED,CHO-S,,,P,BCHE,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC018_S86,,PAIRED,CHO-S,,,P,pZ,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC019_S3,,PAIRED,CHO-S,,,P,SerpinA5,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC020_S15,,PAIRED,CHO-S,,,P,SerpinA10,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC021_S39,,PAIRED,CHO-S,,,P,SerpinC1,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC022_S51,,PAIRED,CHO-S,,,P,EPO,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC023_S63,,PAIRED,CHO-S,,,P,Herceptin,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC024_S75,,PAIRED,CHO-S,,,P,Enbrel,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC025_S87,,PAIRED,CHO-S,,,P,Rituximab,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC026_S27,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC033_S76,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC034_S4,,PAIRED,CHO-S,,,P,SerpinA,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC035_S16,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC036_S40,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC037_S52,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC038_S64,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC039_S88,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC040_S5,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC041_S17,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC042_S29,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC043_S41,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat5,Fut8,St3Gal3,St3Gal4,St3Gal6,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC044_S53,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC046_S77,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC048_S6,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC049_S18,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC050_S42,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC051_S54,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC052_S66,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC053_S78,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC054_S90,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC055_S30,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC062_S67,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC063_S7,,PAIRED,CHO-S,,,P,SerpinA,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC064_S19,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC065_S31,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC066_S43,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC067_S55,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC068_S79,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC069_S91,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC070_S8,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC071_S20,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC072_S32,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat4a,Mgat4b,Mgat5,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC073_S44,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC074_S56,,PAIRED,CHO-S,,,P,SerpinA,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC076_S80,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC077_S92,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC078_S9,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC079_S33,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC080_S45,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC081_S57,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B4galt1,B4galt2,B4galt3"
+2020_03_18_CBD3_CBD6,CC084_S21,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CC091_S70,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC092_S10,,PAIRED,CHO-S,,,P,SerpinA,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC093_S22,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC094_S34,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC095_S46,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC096_S58,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC097_S82,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC099_S11,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC100_S23,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC101_S35,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD CHO (8mM GLN),,in house,"B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC102_S47,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC106_S95,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC107_S12,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC108_S36,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC109_S48,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC110_S60,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD CHO (8mM GLN),,in house,"Mgat2,Fut8,B3gnt2,Sppl3"
+2020_03_18_CBD3_CBD6,CC113_S24,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_03_18_CBD3_CBD6,CHO-S-wt_S1,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_03_18_CBD3_CBD6,CHO-S-wt_S28,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_03_18_CBD3_CBD6,CHO-S-wt_S96,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-LN-24-rep1_S84,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,in house,
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-LN-24-rep2_S85,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,in house,
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-LN-24-rep3_S86,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,in house,
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-PRKDCplus-LN-63-rep1_S87,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,in house,
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-PRKDCplus-LN-63-rep2_S88,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,in house,
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-ATMplus-PRKDCplus-LN-63-rep3_S89,,PAIRED,CHO-K1,,,P,GFP,YES,,,,NO,,F-12K medium,,in house,
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-WT-LN-27-rep1_S81,,PAIRED,CHO-K1,,,P,GFP,,,,,NO,,F-12K medium,,in house,
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-WT-LN-27-rep2_S82,,PAIRED,CHO-K1,,,P,GFP,,,,,NO,,F-12K medium,,in house,
+2020_07_13_CHO_DNA_Repair,CHO-K1-EJ5-GFP-WT-LN-27-rep3_S83,,PAIRED,CHO-K1,,,P,GFP,,,,,NO,,F-12K medium,,in house,
+2020_08_CBD7_CBD10,CC122_S13,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD CHO (8mM GLN),,in house,"St3gal3,St3gal4,St3gal6"
+2020_08_CBD7_CBD10,CC123_S25,,PAIRED,CHO-S,,,P,pZ,YES,,,,NO,,CD CHO (8mM GLN),,in house,"St3gal3,St3gal4,St3gal6"
+2020_08_CBD7_CBD10,CC124_S37,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD CHO (8mM GLN),,in house,"St3gal3,St3gal4,St3gal6"
+2020_08_CBD7_CBD10,CC125_S49,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD CHO (8mM GLN),,in house,"St3gal3,St3gal4,St3gal6"
+2020_08_CBD7_CBD10,CC126_S61,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD CHO (8mM GLN),,in house,"St3gal3,St3gal4,St3gal6"
+2020_08_CBD7_CBD10,CC127_S85,,PAIRED,CHO-S,,,P,EPO,YES,,,,NO,,CD CHO (8mM GLN),,in house,"St3gal3,St3gal4,St3gal6"
+2020_08_CBD7_CBD10,CC128_S2,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD CHO (8mM GLN),,in house,"St3gal3,St3gal4,St3gal6"
+2020_08_CBD7_CBD10,CC129_S14,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD CHO (8mM GLN),,in house,"St3gal3,St3gal4,St3gal6"
+2020_08_CBD7_CBD10,CC130_S26,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD CHO (8mM GLN),,in house,"St3gal3,St3gal4,St3gal6"
+2020_08_CBD7_CBD10,CC131_S38,,PAIRED,CHO-S,,,P,MaxCyte-GFP,YES,,,,NO,,CD CHO (8mM GLN),,https://pmc.ncbi.nlm.nih.gov/articles/PMC12139818/,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3"
+2020_08_CBD7_CBD10,CC133_S62,,PAIRED,CHO-S,,,P,BCHE,YES,,,,NO,,CD CHO (8mM GLN),,https://pmc.ncbi.nlm.nih.gov/articles/PMC12139818/,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3"
+2020_08_CBD7_CBD10,CC135_S86,,PAIRED,CHO-S,,,P,SerpinA5,YES,,,,NO,,CD CHO (8mM GLN),,https://pmc.ncbi.nlm.nih.gov/articles/PMC12139818/,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3"
+2020_08_CBD7_CBD10,CC136_S3,,PAIRED,CHO-S,,,P,SerpinA10,YES,,,,NO,,CD CHO (8mM GLN),,https://pmc.ncbi.nlm.nih.gov/articles/PMC12139818/,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3"
+2020_08_CBD7_CBD10,CC137_S15,,PAIRED,CHO-S,,,P,SerpinC1,YES,,,,NO,,CD CHO (8mM GLN),,https://pmc.ncbi.nlm.nih.gov/articles/PMC12139818/,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3"
+2020_08_CBD7_CBD10,CC139_S51,,PAIRED,CHO-S,,,P,Herceptin,YES,,,,NO,,CD CHO (8mM GLN),,https://pmc.ncbi.nlm.nih.gov/articles/PMC12139818/,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3"
+2020_08_CBD7_CBD10,CC140_S63,,PAIRED,CHO-S,,,P,Enbrel,YES,,,,NO,,CD CHO (8mM GLN),,https://pmc.ncbi.nlm.nih.gov/articles/PMC12139818/,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3"
+2020_08_CBD7_CBD10,CC141_S75,,PAIRED,CHO-S,,,P,Rituximab,YES,,,,NO,,CD CHO (8mM GLN),,https://pmc.ncbi.nlm.nih.gov/articles/PMC12139818/,"Mgat5,St3gal3,St3gal4,St3gal6,B3gnt2,Sppl3"
+2020_08_CBD7_CBD10,CC142_S87,,PAIRED,CHO-S,,,P,MaxCyte-GFP,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_08_CBD7_CBD10,CC144_S73,,PAIRED,CHO-S,,,P,SerpinA,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_08_CBD7_CBD10,CC145_S50,,PAIRED,CHO-S,,,P,SerpinA,,,,,NO,,CD CHO (8mM GLN),,in house,
+2020_08_CBD7_CBD10,CC146_S27,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC150_S4,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC151_S16,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC152_S40,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC153_S52,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC154_S64,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC155_S88,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC156_S5,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC157_S17,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC158_S29,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC159_S41,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC161_S65,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC162_S77,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC163_S89,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC164_S6,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC165_S18,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC166_S42,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC167_S54,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC168_S66,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC169_S78,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC170_S90,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC172_S76,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC173_S53,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC174_S30,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC179_S7,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC180_S19,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC181_S31,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC182_S43,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC183_S55,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC184_S79,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC185_S91,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC186_S8,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC187_S20,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC188_S32,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC190_S56,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC191_S68,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC192_S80,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC193_S92,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC194_S9,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC195_S33,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC196_S45,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC197_S57,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC198_S81,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC199_S93,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC201_S67,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC202_S44,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC203_S21,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC208_S10,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC209_S22,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC210_S34,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC211_S46,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC212_S58,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC213_S82,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC214_S94,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC215_S11,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC216_S23,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC217_S35,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC219_S59,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC220_S71,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC221_S83,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC222_S95,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC223_S12,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC224_S36,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC225_S48,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC226_S60,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC227_S72,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC228_S84,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC230_S70,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC231_S47,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CC232_S24,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CHO-Swt_S1.1,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CHO-Swt_S28,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CHO-Swt_S69,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2020_08_CBD7_CBD10,CHO-Swt_S96,,PAIRED,CHO-S,,,NP,,,,,,NO,,,,in house,
+2021_03_17_FcBAR_CHO,CHO-A4_Rep1_S60,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-A4_Rep2_S61,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-A4_Rep3_S62,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-A6_Rep1_S63,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-A6_Rep2_S64,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-A6_Rep3_S65,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-B2_Rep1_S66,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-B2_Rep2_S67,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-B2_Rep3_S68,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-B5_Rep1_S69,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-B5_Rep2_S70,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-B5_Rep3_S71,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E10_Rep1_S81,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E10_Rep2_S82,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E10_Rep3_S83,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E6_Rep1_S72,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E6_Rep2_S73,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E6_Rep3_S74,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Medium,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E7_Rep1_S75,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E7_Rep2_S76,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E7_Rep3_S77,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E9_Rep1_S78,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E9_Rep2_S79,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-E9_Rep3_S80,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-F1_Rep1_S84,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-F1_Rep2_S85,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-F1_Rep3_S86,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,High,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-G12_Rep1_S87,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-G12_Rep2_S88,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-G12_Rep3_S89,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,P,Rituximab,YES,Batch,Low,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-LAMA_Rep1_S90,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-LAMA_Rep2_S91,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+2021_03_17_FcBAR_CHO,CHO-LAMA_Rep3_S92,Illumina NovaSeq X Plus,PAIRED,CHO-S,,,NP,,YES,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://linkinghub.elsevier.com/retrieve/pii/S1096717625001107,
+GC,D5_CCM1,,PAIRED,CHO-DG44,Day5,5.0,P,mAb,YES,Fedbatch,,,NO,E,GC Biopharma platform basal medium,,in house,NTS
+GC,D11_CCM1,,PAIRED,CHO-DG44,Day11,11.0,P,mAb,YES,Fedbatch,,,NO,S,GC Biopharma platform basal medium,,in house,NTS
+GC,D3_ADAM,,PAIRED,CHO-DG44,Day3,3.0,P,mAb,YES,Fedbatch,,,NO,E,GC Biopharma platform basal medium,,in house,NTS
+GC,D9_ADAM,,PAIRED,CHO-DG44,Day9,9.0,P,mAb,YES,Fedbatch,,,YES,S,GC Biopharma platform basal medium,,in house,TS
+GC,D4_K1B1,,PAIRED,CHO-K1,Day4,4.0,NP,,YES,Fedbatch,,,NO,E,GC Biopharma platform basal medium,,in house,NTS
+GC,D9_K1B1,,PAIRED,CHO-K1,Day9,9.0,NP,,YES,Fedbatch,,,YES,S,GC Biopharma platform basal medium,,in house,TS
+PRJEB39258,ERR4319912,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,1C11
+PRJEB39258,ERR4319913,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,1C11
+PRJEB39258,ERR4319914,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,1C11
+PRJEB39258,ERR4319915,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,1E3
+PRJEB39258,ERR4319916,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,1E3
+PRJEB39258,ERR4319917,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,1E3
+PRJEB39258,ERR4319918,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Low,False,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,5G10
+PRJEB39258,ERR4319919,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Low,False,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,5G10
+PRJEB39258,ERR4319920,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Low,False,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,5G10
+PRJEB39258,ERR4319921,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,6A6
+PRJEB39258,ERR4319922,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,6A6
+PRJEB39258,ERR4319923,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,6A6
+PRJEB39258,ERR4319924,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,High,False,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,6H1
+PRJEB39258,ERR4319925,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,High,False,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,6H1
+PRJEB39258,ERR4319926,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,High,False,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,6H1
+PRJEB39258,ERR4319927,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,NP,,NO,Fedbatch,,,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,C1835A
+PRJEB39258,ERR4319928,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,NP,,NO,Fedbatch,,,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,C1835A
+PRJEB39258,ERR4319929,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,NP,,NO,Fedbatch,,,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,C1835A
+PRJEB39258,ERR4319930,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,NP,,NO,Fedbatch,,,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,C3234A
+PRJEB39258,ERR4319931,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,NP,,NO,Fedbatch,,,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,C3234A
+PRJEB39258,ERR4319932,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,NP,,NO,Fedbatch,,,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,C3234A
+PRJEB39258,ERR4319933,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,High,True,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,G9
+PRJEB39258,ERR4319934,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,High,True,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,G9
+PRJEB39258,ERR4319935,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,P,mAb,YES,Fedbatch,High,True,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,G9
+PRJEB39258,ERR4319936,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,NP,,NO,Fedbatch,,,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,PE24
+PRJEB39258,ERR4319937,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,NP,,NO,Fedbatch,,,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,PE24
+PRJEB39258,ERR4319938,Illumina HiSeq 4000,PAIRED,CHO-K1,48h,2.0,NP,,NO,Fedbatch,,,NO,E,FortiCHO (Gibco),rRNA,https://www.csbj.org/article/S2001-0370(20)30475-X/fulltext,PE24
+PRJEB9291,ERR2593198,Illumina HiSeq 2000,PAIRED,CHO-K1,17h,0.7083333333333334,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.26891,
+PRJEB9291,ERR2593199,Illumina HiSeq 2000,PAIRED,CHO-K1,42h,1.75,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.26891,
+PRJEB9291,ERR2593200,Illumina HiSeq 2000,PAIRED,CHO-K1,66h,2.75,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.26891,
+PRJEB9291,ERR2593201,Illumina HiSeq 2000,PAIRED,CHO-K1,70h,2.9166666666666665,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.26891,
+PRJEB9291,ERR2593202,Illumina HiSeq 2000,PAIRED,CHO-K1,114h,4.75,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.26891,
+PRJEB9291,ERR2593203,Illumina HiSeq 2000,PAIRED,CHO-K1,138h,5.75,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.26891,
+PRJEB9291,ERR2593204,Illumina HiSeq 2000,PAIRED,CHO-K1,162h,6.75,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.26891,
+PRJEB9291,ERR2593205,Illumina HiSeq 2000,PAIRED,CHO-K1,186h,7.75,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.26891,
+PRJEB9291,ERR2593206,Illumina HiSeq 2000,PAIRED,CHO-K1,210h,8.75,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.26891,
+PRJNA214684,SRR950107,Illumina HiSeq 2000,PAIRED,CHO-K1,,,P,TLQP responsive,NO,,,,NO,,,total RNA,https://www.sciencedirect.com/science/article/pii/S0021925820490106,
+PRJNA214684,SRR950108,Illumina HiSeq 2000,PAIRED,CHO-K1,,,P,TLQP responsive,NO,,,,NO,,,total RNA,https://www.sciencedirect.com/science/article/pii/S0021925820490106,
+PRJNA214684,SRR950109,Illumina HiSeq 2000,PAIRED,CHO-K1,,,P,TLQP responsive,NO,,,,NO,,,total RNA,https://www.sciencedirect.com/science/article/pii/S0021925820490106,
+PRJNA304606,SRR2968323,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,NO,,,,NO,,F-12K medium,total RNA,https://doi.org/10.1128/mbio.02128-16,control
+PRJNA304606,SRR2968324,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,,NO,,,,NO,,F-12K medium,total RNA,https://doi.org/10.1128/mbio.02128-16,control
+PRJNA304606,SRR2968325,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,defect in xylosyltransferase,YES,,,,NO,,F-12K medium,total RNA,https://doi.org/10.1128/mbio.02128-16,pgsA745
+PRJNA304606,SRR2968326,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,defect in xylosyltransferase,YES,,,,NO,,F-12K medium,total RNA,https://doi.org/10.1128/mbio.02128-16,pgsA745
+PRJNA304606,SRR2968327,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,restore xylT1,YES,,,,NO,,F-12K medium,total RNA,https://doi.org/10.1128/mbio.02128-16,pgsA745 restore xylT1
+PRJNA304606,SRR2968328,Illumina HiSeq 2500,PAIRED,CHO-K1,,,NP,restore xylT1,YES,,,,NO,,F-12K medium,total RNA,https://doi.org/10.1128/mbio.02128-16,pgsA745 restore xylT1
+PRJNA311594,SRR3161757,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161758,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161759,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161760,Illumina HiSeq 2500,PAIRED,CHO-S,72h,3.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161761,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161762,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161763,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161764,Illumina HiSeq 2500,PAIRED,CHO-S,84h,3.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161765,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161766,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161767,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161768,Illumina HiSeq 2500,PAIRED,CHO-S,96h,4.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161769,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161770,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161771,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161772,Illumina HiSeq 2500,PAIRED,CHO-S,108h,4.5,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161773,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161774,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161775,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161776,Illumina HiSeq 2500,PAIRED,CHO-S,120h,5.0,NP,,NO,Batch,,,NO,E,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161777,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161778,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161779,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161780,Illumina HiSeq 2500,PAIRED,CHO-S,132h,5.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161781,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161782,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161783,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161784,Illumina HiSeq 2500,PAIRED,CHO-S,144h,6.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161785,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161786,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161787,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161788,Illumina HiSeq 2500,PAIRED,CHO-S,156h,6.5,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161789,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161790,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161791,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161792,Illumina HiSeq 2500,PAIRED,CHO-S,168h,7.0,NP,,NO,Batch,,,NO,S,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161793,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161794,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161795,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA311594,SRR3161796,Illumina HiSeq 2500,PAIRED,CHO-S,180h,7.5,NP,,NO,Batch,,,NO,D,CD CHO (8mM GLN),PolyA,https://www.sciencedirect.com/science/article/pii/S2405471216303635,
+PRJNA318886,SRR3401745,Illumina HiSeq 2000,PAIRED,CHO-K1,24h,1.0,NP,,NO,Batch,,,NO,E,PowerCHO (Lonza),total RNA,,1_1_CHO-K1_exp
+PRJNA318886,SRR3401746,Illumina HiSeq 2000,PAIRED,CHO-K1,120h,5.0,NP,,NO,Batch,,,NO,E,PowerCHO (Lonza),total RNA,,1_2_CHO-K1_sta
+PRJNA318886,SRR3401747,Illumina HiSeq 2000,PAIRED,CHO-DG44,48h,2.0,P,mAb,YES,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,,2_1_1_CHO-DG44 IgG_exp_NEAA
+PRJNA318886,SRR3401748,Illumina HiSeq 2000,PAIRED,CHO-DG44,120h,5.0,P,mAb,YES,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,,2_1_2_CHO-DG44 IgG_sta_NEAA
+PRJNA318886,SRR3401749,Illumina HiSeq 2000,PAIRED,CHO-DG44,48h,2.0,P,mAb,YES,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,,2_2_1_CHO-DG44 IgG_exp
+PRJNA318886,SRR3401750,Illumina HiSeq 2000,PAIRED,CHO-DG44,120h,5.0,P,mAb,YES,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,,2_2_2_CHO-DG44 IgG_sta
+PRJNA318886,SRR3401751,Illumina HiSeq 2000,PAIRED,CHO-DG44,48h,2.0,P,mAb,YES,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,,2_3_1_CHO-DG44 IgG_exp_NaBu
+PRJNA318886,SRR3401752,Illumina HiSeq 2000,PAIRED,CHO-DG44,120h,5.0,P,mAb,YES,Batch,,,NO,E,CD CHO (8mM GLN),total RNA,,2_3_2_CHO-DG44 IgG_sta_NaBu
+PRJNA593052,SRR10572657,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3.0,P,mAb,YES,Batch,,,NO,E,SFM-II media (Gibco),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.27365,37_biological replicate 4
+PRJNA593052,SRR10572658,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3.0,P,mAb,YES,Batch,,,NO,E,SFM-II media (Gibco),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.27365,37_biological replicate 3
+PRJNA593052,SRR10572659,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3.0,P,mAb,YES,Batch,,,NO,E,SFM-II media (Gibco),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.27365,37_biological replicate 2
+PRJNA593052,SRR10572660,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3.0,P,mAb,YES,Batch,,,NO,E,SFM-II media (Gibco),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.27365,37_biological replicate 1
+PRJNA593052,SRR10572661,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3.0,P,mAb,YES,Batch,,,YES,E,SFM-II media (Gibco),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.27365,31_biological replicate 4
+PRJNA593052,SRR10572662,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3.0,P,mAb,YES,Batch,,,YES,E,SFM-II media (Gibco),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.27365,31_biological replicate 3
+PRJNA593052,SRR10572663,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3.0,P,mAb,YES,Batch,,,YES,E,SFM-II media (Gibco),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.27365,31_biological replicate 2
+PRJNA593052,SRR10572664,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-K1,72h,3.0,P,mAb,YES,Batch,,,YES,E,SFM-II media (Gibco),total RNA,https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.27365,31_biological replicate 1
+PRJNA604220,SRR10995631,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day4_rep1
+PRJNA604220,SRR10995632,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day4_rep1
+PRJNA604220,SRR10995633,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day4_rep1
+PRJNA604220,SRR10995634,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day4_rep1
+PRJNA604220,SRR10995635,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day6_rep1
+PRJNA604220,SRR10995636,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day6_rep1
+PRJNA604220,SRR10995637,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day6_rep1
+PRJNA604220,SRR10995638,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day6_rep1
+PRJNA604220,SRR10995639,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,NO,Fedbatch,High,False,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day8_rep1
+PRJNA604220,SRR10995640,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,NO,Fedbatch,High,False,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day8_rep1
+PRJNA604220,SRR10995641,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,NO,Fedbatch,High,False,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day8_rep1
+PRJNA604220,SRR10995642,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,NO,Fedbatch,High,False,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT_Rituxi_Day8_rep1
+PRJNA604220,SRR10995643,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day4_rep2
+PRJNA604220,SRR10995644,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day4_rep2
+PRJNA604220,SRR10995645,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day4_rep2
+PRJNA604220,SRR10995646,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day4_rep2
+PRJNA604220,SRR10995647,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day6_rep2
+PRJNA604220,SRR10995648,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day6_rep2
+PRJNA604220,SRR10995649,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day6_rep2
+PRJNA604220,SRR10995650,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,NO,Fedbatch,Medium,False,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day6_rep2
+PRJNA604220,SRR10995651,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,NO,Fedbatch,High,False,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day8_rep2
+PRJNA604220,SRR10995652,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,NO,Fedbatch,High,False,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day8_rep2
+PRJNA604220,SRR10995653,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,NO,Fedbatch,High,False,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day8_rep2
+PRJNA604220,SRR10995654,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,NO,Fedbatch,High,False,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,WT-Rituxi-Day8_rep2
+PRJNA604220,SRR10995655,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day4_rep1
+PRJNA604220,SRR10995656,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day4_rep1
+PRJNA604220,SRR10995657,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day4_rep1
+PRJNA604220,SRR10995658,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day4_rep1
+PRJNA604220,SRR10995659,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day6_rep1
+PRJNA604220,SRR10995660,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day6_rep1
+PRJNA604220,SRR10995661,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day6_rep1
+PRJNA604220,SRR10995662,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day6_rep1
+PRJNA604220,SRR10995663,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,High,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day8_rep1
+PRJNA604220,SRR10995664,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,High,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day8_rep1
+PRJNA604220,SRR10995665,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,High,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day8_rep1
+PRJNA604220,SRR10995666,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,High,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day8_rep1
+PRJNA604220,SRR10995667,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day4_rep2
+PRJNA604220,SRR10995668,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day4_rep2
+PRJNA604220,SRR10995669,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day4_rep2
+PRJNA604220,SRR10995670,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day4_rep2
+PRJNA604220,SRR10995671,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day6_rep2
+PRJNA604220,SRR10995672,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day6_rep2
+PRJNA604220,SRR10995673,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day6_rep2
+PRJNA604220,SRR10995674,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Medium,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day6_rep2
+PRJNA604220,SRR10995675,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,High,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day8_rep2
+PRJNA604220,SRR10995676,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,High,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day8_rep2
+PRJNA604220,SRR10995677,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,High,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day8_rep2
+PRJNA604220,SRR10995678,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,High,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,6X-Rituxi-Day8_rep2
+PRJNA604220,SRR10995679,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day4_rep1
+PRJNA604220,SRR10995680,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day4_rep1
+PRJNA604220,SRR10995681,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day4_rep1
+PRJNA604220,SRR10995682,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day4_rep1
+PRJNA604220,SRR10995683,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day6_rep1
+PRJNA604220,SRR10995684,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day6_rep1
+PRJNA604220,SRR10995685,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day6_rep1
+PRJNA604220,SRR10995686,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day6_rep1
+PRJNA604220,SRR10995687,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,Low,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day8_rep1
+PRJNA604220,SRR10995688,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,Low,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day8_rep1
+PRJNA604220,SRR10995689,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,Low,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day8_rep1
+PRJNA604220,SRR10995690,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,Low,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day8_rep1
+PRJNA604220,SRR10995691,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day4_rep2
+PRJNA604220,SRR10995692,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day4_rep2
+PRJNA604220,SRR10995693,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day4_rep2
+PRJNA604220,SRR10995694,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day4,4.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day4_rep2
+PRJNA604220,SRR10995695,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day6_rep2
+PRJNA604220,SRR10995696,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day6_rep2
+PRJNA604220,SRR10995697,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day6_rep2
+PRJNA604220,SRR10995698,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day6,6.0,P,mAb,YES,Fedbatch,Low,True,NO,E,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day6_rep2
+PRJNA604220,SRR10995699,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,Low,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day8_rep2
+PRJNA604220,SRR10995700,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,Low,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day8_rep2
+PRJNA604220,SRR10995701,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,Low,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day8_rep2
+PRJNA604220,SRR10995702,NextSeq 500 sequencing; RNA-Seq of CHOK1 cell line,PAIRED,CHO-S,Day8,8.0,P,mAb,YES,Fedbatch,Low,True,NO,S,FortiCHO (Gibco),PolyA,https://www.nature.com/articles/s41467-020-15866-w,11X-Rituxi-Day8_rep2

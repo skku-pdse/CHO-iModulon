@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+/threshold sensitivity/
+
+/ICA/runs/
+/ICA/threshold results/
+/outputs/

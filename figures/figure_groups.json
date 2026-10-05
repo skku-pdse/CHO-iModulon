@@ -1,0 +1,30 @@
+{
+  "figure 1": [
+    "module_overview",
+    "explained_variance",
+    "representative_heatmap",
+    "metadata_distribution"
+  ],
+  "figure 2": [
+    "lineage_effects",
+    "lineage_violin",
+    "lineage_pairwise_heatmap",
+    "ecm1_genes",
+    "chromosome_enrichment",
+    "genomic_panels"
+  ],
+  "figure 3": [
+    "temperature_activity",
+    "antiviral_activity",
+    "tds_genes",
+    "isg1_genes"
+  ],
+  "figure 4": [
+    "projected_temperature",
+    "projected_lineage",
+    "projected_atf4"
+  ],
+  "supplementary": [
+    "within_project_lineage"
+  ]
+}
