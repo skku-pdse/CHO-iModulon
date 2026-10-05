@@ -2,9 +2,7 @@
 
 Data and code for ICA-based analysis of CHO cell transcriptomes: 105 discovery iModulons from 778 samples and 148 expanded-compendium iModulons from 1,155 samples.
 
-## Data availability
 
-Sample-level TPM, activity, and metadata for NISTCHO_Characterisation (also named R17704 or Project_BOKU) are omitted from the general analysis inputs because the associated manuscript is in preparation. Figure-specific inputs and plotted results are retained. Supplied models and aggregate results were obtained from the full research dataset; reruns using the released subset may differ.
 
 ## Install
 
@@ -62,3 +60,7 @@ python reproduce_analysis.py --steps string
 Gene-weight matrices have genes in rows and iModulons in columns; activity matrices have iModulons in rows and samples in columns. Samples are matched by the combined `Project` and `SampleID` identifiers. Membership tables link `Gene` identifiers to `iModulon` numbers.
 
 The workflow starts from quantified TPM. Raw-read processing and manual schematic artwork are outside this package.
+
+## Data availability
+
+Sample-level TPM, activity, and metadata for NISTCHO_Characterisation are omitted from the general analysis inputs because the associated manuscript is in preparation. Figure-specific inputs and plotted results are retained. Supplied models and aggregate results were obtained from the full research dataset; reruns using the released subset may differ.
